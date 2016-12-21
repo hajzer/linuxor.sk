@@ -1,0 +1,2 @@
+# linuxor.sk
+linuxor.sk
