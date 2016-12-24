@@ -74,3 +74,14 @@ A (hopefully) curated list on awesome material on distributed systems, inspired 
 A curated list of awesome distributed systems books, papers, resources and shiny things.
 
 
+### CHAOS ENGINEERING
+
+- [2000 - How Complex Systems Fail ](http://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf)
+
+- [2014 - Chaos Engineering 101](https://medium.com/production-ready/chaos-engineering-101-1103059fae44#.23fy5d6b2)
+
+- [2014 - Chaos Engineering: A Shift in Mindset](https://medium.com/production-ready/chaos-engineering-a-shift-in-mindset-d8fbfc8c5dc2#.8uv04vix5)
+
+- [2016 - How Complex Web Systems Fail — Part 1](https://medium.com/production-ready/how-complex-web-systems-fail-part-1-4aaffc11e0c7#.xyl56jl27)
+
+- [2016 - How Complex Web Systems Fail — Part 2](https://medium.com/production-ready/how-complex-web-systems-fail-part-2-1b1afb4fa7be#.aiq0xwtpp)
