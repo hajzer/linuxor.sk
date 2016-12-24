@@ -3,7 +3,7 @@
 - [Introduction to HTTP](https://dzone.com/refcardz/http-hypertext-transfer-0)
 
 
-### HTML5 
+### DOC - HTML5 
 
 - [HTML5 Web Workers - Multithreaded JavaScript for High-Performance Web Applications](https://dzone.com/refcardz/html5-web-workers)
 
@@ -14,7 +14,7 @@
 - [HTML5 IndexedDB - Features, Groups, Characters, and Quantifiers](https://dzone.com/refcardz/html5-indexeddb)
 
 
-### HTML5 FILE API - DOC
+### DOC - HTML5 FILE API
 
 - [W3C - File API](http://www.w3.org/TR/FileAPI/)
 
@@ -45,7 +45,7 @@
 - [Mobile Web Applications Development with HTML5  - Tests with File API](http://aaltowebapps.com/fileApiTests.html)
 
 
-### HTML5 FILE API - SOFT
+### SOFT - HTML5 FILE API
 
 
 - [h5ile](http://www.maratbn.com/projects/h5ile/)
@@ -55,6 +55,13 @@ JavaScript helper utility library for the HTML5 File API
 - [HTML5TEST](http://html5test.com/)
 <br>
 how well does your browser support html5?
+
+
+### SOFT OTHER
+
+- [text-encoding](https://github.com/inexorabletash/text-encoding)
+<br>
+This is a polyfill for the Encoding Living Standard API for the Web, allowing encoding and decoding of textual data to and from Typed Array buffers for binary data in JavaScript.
 
 
 ### CSS
