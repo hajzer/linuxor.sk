@@ -11,3 +11,15 @@ This is a gallery of semantic patches for use with Coccinelle. They are extracte
 
 
 - [Jaderné noviny - 1. 9. 2016: Pohled do hlavy vývojářky Coccinelle](http://www.abclinuxu.cz/clanky/jaderne-noviny-1.-9.-2016-pohled-do-hlavy-vyvojarky-coccinelle)
+
+
+### DOC - MEMORY ALLOCATION
+
+- [2016 - How to Allocate Dynamic Memory Safely](http://www.barrgroup.com/Embedded-Systems/How-To/Malloc-Free-Dynamic-Memory-Allocation)
+
+- [Guarded heap allocations](http://stackoverflow.com/a/33568256)
+
+- [Secmalloc - a secure memory library](http://www.jabberwocky.com/software/secmalloc/)
+<br>
+Most modern systems have some notion of swap, where the contents of memory can be written to disk, freeing up the memory for other purposes. This allows the system a lot of flexibility in managing its memory. Infrequently used data is a prime candidate for swapping to disk, thus freeing up the real memory for more useful purposes. This can be a problem when using cryptography as there is a danger of keys or other sensitive data ending up in swap where (eventually) it may fall into the wrong hands. Secmalloc provides a secure version of the common 'malloc' interface for managing memory. All memory allocated by secmalloc is locked, so that it cannot be swapped out.
+
