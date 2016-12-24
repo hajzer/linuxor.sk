@@ -1,4 +1,4 @@
-### DOC - TRANSACTIONS, TRANSACTION LOG, ...
+### DOC - TRANSAKCIE, TRANSAKCNY LOG, ...
 
 - [2016 - The Guts n' Glory of Database Internals (****)](https://ayende.com/blog/posts/series/174337/the-guts-n-glory-of-database-internals)
 <br>
@@ -23,11 +23,20 @@ Cela seria clankov na temu implementovania databaz (konkretne LMDB engine od SYM
 - [2013 - The Log: What every software engineer should know about real-time data's unifying abstraction (****)](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 
 
-### DOC - ATOMICITY
+### DOC - ATOMICITA
 
 - [Atomic Commit In SQLite](https://www.sqlite.org/atomiccommit.html)
 <br>
 Velmi pekne informacie o tom ako su implementovane atomicke operacie v SQLite.
+
+
+### DOC - ATOMICITA / ATOMICKE OPERACIE V OS LINUX
+
+- [2010 - Things UNIX can do atomically](http://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html)
+
+- [2015 - Failure-Atomic Updates of Application Data in a Linux File System](https://www.usenix.org/conference/fast15/technical-sessions/presentation/verma)
+<br>
+[https://www.usenix.org/system/files/conference/fast15/fast15-paper-verma.pdf](https://www.usenix.org/system/files/conference/fast15/fast15-paper-verma.pdf)
 
 
 ### SOFT
