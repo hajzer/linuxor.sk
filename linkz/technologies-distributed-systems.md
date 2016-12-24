@@ -42,6 +42,24 @@ Prva prednaska o CAP teoreme od jeho tvorcu (Eric Brewer).
 Zaujimave interview s otcom CAP teoremu (Eric Brewer).
 
 
+### RAFT ALGORITMUS
+
+- [The Raft Consensus Algorithm](https://raft.github.io/)
+<br>
+Raft is a consensus algorithm that is designed to be easy to understand. It's equivalent to Paxos in fault-tolerance and performance. The difference is that it's decomposed into relatively independent subproblems, and it cleanly addresses all major pieces needed for practical systems. We hope Raft will make consensus available to a wider audience, and that this wider audience will be able to develop a variety of higher quality consensus-based systems than are available today.
+
+- [Raft paper](https://raft.github.io/raft.pdf)
+ 
+- [The Secret Lives of Data](http://thesecretlivesofdata.com/raft/)
+<br>
+Pekne vizualizacie roznych algoritmov zo sveta distribuovanych systemov (zatial len RAFT).
+ - [What is Distributed Consensus](http://thesecretlivesofdata.com/raft/#intro)
+ - [Protocol Overview](http://thesecretlivesofdata.com/raft/#overview)
+ - [Leader Election](http://thesecretlivesofdata.com/raft/#election)
+ - [Log Replication](http://thesecretlivesofdata.com/raft/#replication)
+ - [Other Resources](http://thesecretlivesofdata.com/raft/#conclusion)
+
+
 ### TESTY KOREKTNOSTI DISTRIBUOVANYCH SYSTEMOV
 
 - [Jepsen series on distributed systems correctnes by Aphyr (Kyle Kingsbury) (*****)](https://aphyr.com/tags/Jepsen)
