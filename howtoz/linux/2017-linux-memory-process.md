@@ -1,5 +1,6 @@
 ﻿
 ## Virtuálna pamäť užívateľského procesu v OS Linux
+
 **FILE:** linux-memory-process.md<br>
 **DATE:** 2017 <br>
 **AUTHOR:** Ladislav Hajzer -> lala (at) linuxor (dot) sk <br>
