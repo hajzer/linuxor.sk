@@ -6,6 +6,24 @@
 [https://github.com/netblue30/firejail](https://github.com/netblue30/firejail)
 <br>
 Firejail is a SUID program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces and seccomp-bpf. It allows a process and all its descendants to have their own private view of the globally shared kernel resources, such as the network stack, process table, mount table. Firejail can work in a SELinux or AppArmor environment, and it is integrated with Linux Control Groups.
+<br>
+
+> Vzhladom na dost velku komplexnost tohto nastroja je otazne kolko bezpecnostnych problemov moze pouzitie tohto nastroja priniest aj ked je zoznam deklarovanych  bezpecnostnych moznosti celkom zaujimavy.
+
+> V poslednom case bolo v nastroji firejail objavenych dost vela bezpecnostnych problemov: <br>
+>
+ - [2017 - seclist - Firejail security](http://seclists.org/oss-sec/2017/q1/20)
+ - [firejail - release notes](https://firejail.wordpress.com/download-2/release-notes/)
+  - security: --bandwidth root shell found by Martin Carpenter (CVE-2017-5207)
+  - security: disabled --allow-debuggers when running on kernel versions prior to 4.8; a kernel bug in ptrace system call allows a full bypass of seccomp filter; problem reported by Lizzie Dixon (CVE-2017-5206)
+  - security: root exploit found by Sebastian Krahmer (CVE-2017-5180)
+  - security: root exploit found by Sebastian Krahmer (CVE-2017-5180)
+  - security: overwrite /etc/resolv.conf found by Martin Carpenter (CVE-2016-10118)
+  - security: invalid environment exploit found by Martin Carpenter (CVE-2016-10122)
+  - CVE-2016-9016 submitted by Aleksey Manevich
+  - security: overwrite /etc/resolv.conf found by Martin Carpenter (CVE-2016-10118)
+  - CVE-2016-7545 submitted by Aleksey Manevich
+  - ...
 
 
 - [Minijail (ChromiumOS/Google)](https://android.googlesource.com/platform/external/minijail/+/master)
