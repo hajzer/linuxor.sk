@@ -1,4 +1,4 @@
-### JEDNOSUBOROVE KNIZNICE
+### JEDNOSÚBOROVÉ KNIŽNICE
 
 - [single-file public-domain/open source libraries with minimal dependencies](https://github.com/nothings/stb/blob/master/docs/other_libs.md)
 
