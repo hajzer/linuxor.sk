@@ -1,8 +1,11 @@
-﻿## Virtuálna pamäť užívateľského procesu v OS Linux
-**FILE:** linux-memory-process.md<br>
-**DATE:** 2017 <br>
-**AUTHOR:** Ladislav Hajzer -> lala (at) linuxor (dot) sk <br>
-**VERSION:** 0 (Demo/Draft)
+
+
+## Virtuálna pamäť užívateľského procesu v OS Linux
+**FILE:** 2017-linux-memory-process.md  
+**DATE:** 01/2017  
+**UPDATED:**  
+**AUTHOR:** Ladislav Hajzer -> lala (at) linuxor (dot) sk  
+**VERSION:** 0 (Demo/Draft)  
 
 
 ## 1 Intro
@@ -17,24 +20,17 @@ Fyzická pamäť je úložné hardvérové zariadenie. Viac detailov -> [https:/
 ### 1.2 Virtuálna pamäť
 
 
-Virtuálna pamäť poskytuje softvérovo riadenú správu pamäťových adries, umožňujúc
-každému programu/procesu mať vlastný unikátny pohľad na pamäť počítača. 
+Virtuálna pamäť poskytuje softvérovo riadenú správu pamäťových adries, umožňujúc každému programu/procesu mať vlastný unikátny pohľad na pamäť počítača. 
 
-Vo viac-úlohových (multi-tasking) operačných systémoch je každý proces spustený vo vlastnej pamäťovej klietke (sandbox), ktorý sa nazýva
-virtuálny adresný priestor (Virtual Address Space). Na 32 bitových platformách je to blok pamäťových adries o veľkosti 4GB. 
+Vo viac-úlohových (multi-tasking) operačných systémoch je každý proces spustený vo vlastnej pamäťovej klietke (sandbox), ktorý sa nazýva virtuálny adresný priestor (Virtual Address Space). Na 32 bitových platformách je to blok pamäťových adries o veľkosti 4GB. 
 
-Jedným zo
-spôsobov ako spravovať pamäť OS je mechanizmus stránkovania, ktorý umožňuje, aby
-fyzický adresný priestor programu/procesu nebol súvisly. Mechanizmus stránkovania je 
-použitý v v operačnom systéme Linux ako aj ďalších OS. Virtuálny
-adresný priestor je pri mechanizme stránkovania mapovaný na fyzickú pamäť pomocou tabuliek stránok, ktoré spravuje jadro operačného systému.
+Jedným zo spôsobov ako spravovať pamäť OS je mechanizmus stránkovania, ktorý umožňuje, aby fyzický adresný priestor programu/procesu nebol súvisly. Mechanizmus stránkovania je použitý v v operačnom systéme Linux ako aj ďalších OS. Virtuálny adresný priestor je pri mechanizme stránkovania mapovaný na fyzickú pamäť pomocou tabuliek stránok, ktoré spravuje jadro operačného systému.
 
 
 ### 1.3 Stránkovanie
 
 
-Pri stránkovaní je fyzická ako aj logická pamäť rozdelená na bloky rovnakej veľkosti pričom pri fyzickej pamäti hovoríme o rámcoch (frame) a pri logickej pamäti hovoríme o stránkach (page). Kedže veľkosti blokov sú konštantne veľké, stačí stránky iba číslovať a nie je nutné zaregistrovať celé adresy stránok. Mapovanie fyzických adries
-na virtuálne, mechanizmom stránkovania je znazornené na nasledujúcej blokovej schéme.
+Pri stránkovaní je fyzická ako aj logická pamäť rozdelená na bloky rovnakej veľkosti pričom pri fyzickej pamäti hovoríme o rámcoch (frame) a pri logickej pamäti hovoríme o stránkach (page). Kedže veľkosti blokov sú konštantne veľké, stačí stránky iba číslovať a nie je nutné zaregistrovať celé adresy stránok. Mapovanie fyzických adries na virtuálne, mechanizmom stránkovania je znazornené na nasledujúcej blokovej schéme.
 
 
 <pre>
@@ -58,36 +54,26 @@ na virtuálne, mechanizmom stránkovania je znazornené na nasledujúcej blokove
                                               8|  page 3  |
                                                +----------+
 
-   logicka pamat        tabulka stranok        fyzicka pamat
+   logická pamäť        tabuľka stránok        fyzická pamäť
 </pre>
 
 
 ### 1.4 Lineárny adresný priestor
 
 
-Z perspektívy užívateľského priestoru je adresný priestor plochý lineárny adresný priestor, ale
-perspektíva jadra OS je odlišná. Adresný priestor je v OS rozdelený na 2 časti, užívateľský adresný priestor 
-a adresný priestor jadra OS. Miesto rozdelenia na tieto dve časti je určené hodnotou premennej **"PAGE_OFFSET"**, 
-ktorá ma na platforme x86 hodnotu a teda sa nachádza na adrese **"0xc0000000"**. To znamená, že 1 GiB je vždy mapovaný jadrom OS a zvyšné 3 GiB su dostupné pre užívateľské procesy.
+Z perspektívy užívateľského priestoru je adresný priestor plochý lineárny adresný priestor, ale perspektíva jadra OS je odlišná. Adresný priestor je v OS rozdelený na 2 časti, užívateľský adresný priestor a adresný priestor jadra OS. Miesto rozdelenia na tieto dve časti je určené hodnotou premennej **"PAGE_OFFSET"**, ktorá ma na platforme x86 hodnotu a teda sa nachádza na adrese **"0xc0000000"**. To znamená, že 1 GiB je vždy mapovaný jadrom OS a zvyšné 3 GiB su dostupné pre užívateľské procesy.
 
 
 ### 1.5 Správa adresného priestoru v Linux OS
 
 
-Adresný priestor použiteľný Linux procesom je spravovaný dátovou štruktúrou **"mm_struct"**. Každý adresný 
-priestor pozostáva z určitého počtu pamaťových regionov, ktoré sa nikdy neprekrývajú. Pamäťový región 
-môže reprezentovať haldu (heap) procesu určenú pre alokovanie pamäte pomocou **"malloc()"**, mapovanie 
-súborov do pamäte ako napríklad zdieľané knižnice alebo anonymnú pamäť alokovanú pomocou **"mmap()"**.
+Adresný priestor použiteľný Linux procesom je spravovaný dátovou štruktúrou **"mm_struct"**. Každý adresný priestor pozostáva z určitého počtu pamaťových regionov, ktoré sa nikdy neprekrývajú. Pamäťový región môže reprezentovať haldu (heap) procesu určenú pre alokovanie pamäte pomocou **"malloc()"**, mapovanie súborov do pamäte ako napríklad zdieľané knižnice alebo anonymnú pamäť alokovanú pomocou **"mmap()"**.
 
 
 ### 1.6 Pamaťové regióny Linux procesu
 
 
-Adresný priestor procesu je len zriedkavo použitý celý, vačšinou sú použité len  určité časti pamäťových regiónov.
-Každý pamäťový región je reprezentovaný štruktúrov **"vm\_area\_struct"** a ako bolo už vyššie spomenuté, tieto
-pamäťové regióny sa nikdy neprekrývajú. Zoznam všetkých pamäťových regionov Linux procesu je možné
-preskúmať cez PROC rozhranie, konkrétne v **"/proc/[pid]/maps"** pričom [pid] je jednoznačný identifikátor
-procesu.
+Adresný priestor procesu je len zriedkavo použitý celý, vačšinou sú použité len  určité časti pamäťových regiónov. Každý pamäťový región je reprezentovaný štruktúrov **"vm\_area\_struct"** a ako bolo už vyššie spomenuté, tieto pamäťové regióny sa nikdy neprekrývajú. Zoznam všetkých pamäťových regionov Linux procesu je možné preskúmať cez PROC rozhranie, konkrétne v **"/proc/[pid]/maps"** pričom [pid] je jednoznačný identifikátor procesu.
 
 
 ### 1.7 Systémové volania súvisiace s pamäťovými regiónmi Linux procesu
@@ -336,29 +322,19 @@ address           perm offset   dev   inode                              path
 
 Linux sprístupňuje virtuálnu pamäť procesu prostredníctvom záznamu v pseudo súborovom systéme/rozhraní **"/proc"** v pseudo súbore **"/proc/[pid]/mem"**. Pseudo súbor **"/proc/[pid]/mem"** zobrazuje obsah pamäťových regiónov procesu rovnakým spôsobom ako sú mapované v samotnom procese. Bajt (Byte) na offsete X (alebo inak povedané posunutý o X) v súbore **"/proc/[pid]/mem"** je rovnaký resp. ten istý ako bajt na adrese X v samotnom procese. Ak je adresa v procese odmapovaná, tak čítanie z tohoto offsetu zo súboru **"/proc/[pid]/mem"** skončí chybovým hlásením o chybe vstupu/výstupu (**"EIO", "Input/Output Error"**). Nakoľko na prvej stránke (page) procesu nie je väčšinou namapované nič, tak čítanie prvej stránky zo súboru **"/proc/[pid]/mem"** skončí s chybovým hlásením o chybe vstupu/výstupu. Toto trvdenie je možné otestovať tak, že sa pokúsime prečítať pamäť procesu príkazom **"cat /proc/[pid]/mem"** (s právami užívateľa **"root"**). 
 
-Nie všetky pamäťové regióny sú čitateľné. Pamäťové regióny procesu sú zaznamenané v súborovom systéme **"/proc"** v pseudo textovom súbore 
-**"/proc/[pid]/maps"**. V podstate sa jedná o pamäťovú mapu procesu. Ak chceme prečítať pamäť nejakého iného procesu musíme ako prvé prečítať popis jeho pamäťových regiónov, ktorý sa nachádza v súbore **"/proc/[pid]/maps"** a  v ktorom sa nachádzajú aj prístupové informácie (čítanie/zapisovanie, ...) k týmto pamäťovým regiónom. Ak vieme ku ktorým
-pamäťovým regiónom je povolený prístup, môžeme tieto regióny prečítať a skopírovať z pseudo súboru **"/proc/[pid]/mem"** pomocou systemových
-volaní **"read()"** a **"mmap()"** avšak proces čítania pamäte nie je taký priamočiary a musia byť splnené určité podmienky. 
+
+Nie všetky pamäťové regióny sú čitateľné. Pamäťové regióny procesu sú zaznamenané v súborovom systéme **"/proc"** v pseudo textovom súbore **"/proc/[pid]/maps"**. V podstate sa jedná o pamäťovú mapu procesu. Ak chceme prečítať pamäť nejakého iného procesu musíme ako prvé prečítať popis jeho pamäťových regiónov, ktorý sa nachádza v súbore **"/proc/[pid]/maps"** a  v ktorom sa nachádzajú aj prístupové informácie (čítanie/zapisovanie, ...) k týmto pamäťovým regiónom. Ak vieme ku ktorým pamäťovým regiónom je povolený prístup, môžeme tieto regióny prečítať a skopírovať z pseudo súboru **"/proc/[pid]/mem"** pomocou systemových volaní **"read()"** a **"mmap()"** avšak proces čítania pamäte nie je taký priamočiary a musia byť splnené určité podmienky. 
+
 
 Na to, aby bolo možné čítať (proces reader) pamäťové regióny iného procesu (proces target) musia byť splnené určité podmienky:
 
 
-- Proces, ktorý chce čítať (reader) pamäťové regióny iného procesu (target) z **"/proc/[pid]/mem"** sa musí na tento iný proces (target) 
-  pripojiť pomocou systémového volania **"ptrace()"** s nastaveným príznakom (flag-om) **"PTRACE\_ATTACH"**. Po ukončení čítania z **"/proc/[pid]/mem"** 
-  by sa mal čítajúci proces (reader) odpojiť od procesu (target) opäť pomocou systémového volania **"ptrace()"**, ale s príznakom 
-  **"PTRACE\_DETACH"**. Takýmto spôsobom sa k procesu pripájajú debugger nástroje. 
-  Nutnosť pripojiť sa na iný proces pomocou **"ptrace()"** neplatí pre procesy (reader), ktoré boli spustené pod užívateľom "root" avšak 
-  proces (target), ktorého pamäť sa snažíme čítať musí byť zastavený.
-- Proces (target), ktorého pamäť sa snažíme čítať musí byť zastavený. Je to z toho dôvodu, že spustený proces (target) si počas svojho behu
-  dynamicky alokuje pamäť podľa požiadavok samotného programu a tým pádom modifikuje svoje pamäťové regióny, čo môže mať za dôsledok to, že čítajúci proces (reader) sa bude snažiť prečítať taký pamäťový región (resp. stránky), ktorý už bol z procesu odmapovaný a tak čítajúci proces snažiaci sa prečítať takéto stránky dostane chybové hlásenie **"EIO", "Input/Output Error"**, viď. vyššie začiatok tejto kapitoly.
+- Proces, ktorý chce čítať (reader) pamäťové regióny iného procesu (target) z **"/proc/[pid]/mem"** sa musí na tento iný proces (target) pripojiť pomocou systémového volania **"ptrace()"** s nastaveným príznakom (flag-om) **"PTRACE\_ATTACH"**. Po ukončení čítania z **"/proc/[pid]/mem"** by sa mal čítajúci proces (reader) odpojiť od procesu (target) opäť pomocou systémového volania **"ptrace()"**, ale s príznakom **"PTRACE\_DETACH"**. Takýmto spôsobom sa k procesu pripájajú debugger nástroje. Nutnosť pripojiť sa na iný proces pomocou **"ptrace()"** neplatí pre procesy (reader), ktoré boli spustené pod užívateľom "root" avšak proces (target), ktorého pamäť sa snažíme čítať musí byť zastavený.
+
+- Proces (target), ktorého pamäť sa snažíme čítať musí byť zastavený. Je to z toho dôvodu, že spustený proces (target) si počas svojho behu dynamicky alokuje pamäť podľa požiadavok samotného programu a tým pádom modifikuje svoje pamäťové regióny, čo môže mať za dôsledok to, že čítajúci proces (reader) sa bude snažiť prečítať taký pamäťový región (resp. stránky), ktorý už bol z procesu odmapovaný a tak čítajúci proces snažiaci sa prečítať takéto stránky dostane chybové hlásenie **"EIO", "Input/Output Error"**, viď. vyššie začiatok tejto kapitoly.
 
 
- Systémove volanie **"ptrace()"** 
-  s príznakom **"PTRACE\_ATTACH"** vykoná zastavenie cieľového procesu (target) zaslaním signálu STOP. Nakoľko je doručenie signálu asynchrónne,
-  proces, ktorý vykonáva čítanie pamäte (reader) musí chvíľku počkať na to, pokiaľ cieľový proces (target) zmení svoj stav a to tak, že zavolá 
-  systémové volanie **"waitpid()"**, ktoré pozastaví vykonávanie procesu (reader) do času pokiaľ proces (target) špecifikovaný pomocou PID zmení
-  svoj stav.
+Systémove volanie **"ptrace()"** s príznakom **"PTRACE\_ATTACH"** vykoná zastavenie cieľového procesu (target) zaslaním signálu STOP. Nakoľko je doručenie signálu asynchrónne, proces, ktorý vykonáva čítanie pamäte (reader) musí chvíľku počkať na to, pokiaľ cieľový proces (target) zmení svoj stav a to tak, že zavolá systémové volanie **"waitpid()"**, ktoré pozastaví vykonávanie procesu (reader) do času pokiaľ proces (target) špecifikovaný pomocou PID zmení svoj stav.
 
 
 Ukážka C kódu, ktorý sa pripojí na cieľový proces (target) identifikovaný identifikátorom procesu (PID) a vykoná čítanie pamäťového regiónu:
