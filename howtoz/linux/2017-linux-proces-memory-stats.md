@@ -238,7 +238,7 @@ Zobrazenie využívania pamäte
 
 
 <pre>
-[5.3]# ./smem -c 'pid name maps vss uss pss rss swap' -P /usr/bin/mc -t -k
+# ./smem -c 'pid name maps vss uss pss rss swap' -P /usr/bin/mc -t -k
 ----------------------------------------------------------------------------------------------------------------
    PID Name                      Maps      VSS      USS      PSS      RSS     Swap
 100886 mc                         118   160.2M     2.9M     3.1M     5.2M        0
@@ -252,7 +252,7 @@ Zobrazenie využívania pamäte
 
 
 <pre>
-[5.4]# ./smem -c 'pid name maps vss uss pss rss swap' -P /usr/bin/mc -t -k
+# ./smem -c 'pid name maps vss uss pss rss swap' -P /usr/bin/mc -t -k
 ----------------------------------------------------------------------------------------------------------------
    PID Name                      Maps      VSS      USS      PSS      RSS     Swap
 100886 mc                         118   160.7M     3.4M     3.6M     5.7M        0
@@ -266,7 +266,7 @@ Zobrazenie využívania pamäte
 
 
 <pre>
-[5.5]# ./smem -c 'pid name maps vss uss pss rss swap' -P /usr/bin/mc -t -k
+# ./smem -c 'pid name maps vss uss pss rss swap' -P /usr/bin/mc -t -k
 ----------------------------------------------------------------------------------------------------------------
    PID Name                      Maps      VSS      USS      PSS      RSS     Swap
 100886 mc                         118   160.2M     2.9M     3.1M     5.2M        0
