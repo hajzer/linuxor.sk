@@ -23,7 +23,7 @@
 - [2016 - Linux Namespaces - USER namespace]()
 - [2016 - Linux Namespaces - CGROUP namespace]()
 
-
+----------
 
 
 ## HOWTOz - DB
@@ -38,7 +38,7 @@
 - [2016 - Oracle RAC 11g2 - Symantec Backup Exec]()
 - [2016 - Oracle RAC 11g2 - Knot DNS server]()
 
-
+----------
 
 
 ## HOWTOz - WWW
@@ -48,7 +48,7 @@
 - [2012 - GWAN web server]()
 - [2010 - Základy Cisco ACE 4710]()
 
-
+----------
 
 
 ## HOWTOz - STORAGE
@@ -59,10 +59,9 @@
 - [2013 - FC SAN - Cisco MDS 9124e (Blade Switch) - konfigurácia SAN prepínača]()
 - [2013 - FC SAN - Linux - konfigurácia Linux servera]()
 
-
 - [2010 - Základy IBM/LSI MPIO ovládača RDAC (Redundant Disk Array Controller) pre Linux]()
 
-
+----------
 
 
 ## HOWTOz - VPN
@@ -70,7 +69,7 @@
 - [2012 - Debian 5 + SSH = SSH VPN Howto]()
 - [2007 - Debian 4 - OpenVPN Howto]()
 
-
+----------
 
 
 ## HOWTOz - SECURITY
@@ -86,10 +85,10 @@
 - [2008 - Squid autentizácia a monitorovanie užívateľov]()
 - [2007 - Debian 4 - proFTPD (chroot) - ftp-prox (chroot)]()
 
+----------
 
 
-
-## HOWTOz - VIRTUALIZÁCIA
+## HOWTOz - VIRTUALIZATION
 
 ### 2008 - Základy XEN-u - fyzické prostredie
 
@@ -105,7 +104,7 @@
 - [2007 - Debian 4 - Xen domU]()
 - [2007 - Debian 4 - Xen domU - zálohovanie pomocou LVM snapshotov]()
 
-
+----------
 
 
 
