@@ -3,25 +3,25 @@
 
 ### 2017 - Linux a pamäť
 
-- [2017 - Virtuálna pamäť užívateľského procesu v OS Linux](2017-linux-memory-process.md)
-- [2017 - Diagnostika využívania pamäte procesov v OS Linux](2017-linux-proces-memory-stats.md)
+- [2017 - Virtuálna pamäť užívateľského procesu v OS Linux](http://www.linuxor.sk/howtoz/2017-linux-memory-process)
+- [2017 - Diagnostika využívania pamäte procesov v OS Linux](http://www.linuxor.sk/howtoz/2017-linux-proces-memory-stats)
 
 
 ### 2016 - Tutoriál o menných priestoroch v OS Linux (Linux namespaces)
 
-- [2016 - Linux Namespaces - Úvod]()
-- [2016 - Linux Namespaces - MNT namespace]()
-- [2016 - Linux Namespaces - UTS namespace]()
-- [2016 - Linux Namespaces - PID namespace]()
-- [2016 - Linux Namespaces - NET namespace]()
-  - [1. Prepojenie sieťového menného priestoru a hostiteľského systému - pomocou páru veth adaptérov]()
-  - [2. Prepojenie dvoch sieťových menných priestorov (ns1, ns2) - pomocou páru veth adaptérov]()
-  - [3. Prepojenie dvoch sieťových menných priestorov (ns1, ns2) - pomocou 2 párov veth adaptérov a štandardného Linux prepínača (bridge)]()
-  - [4. Prepojenie dvoch sieťových menných priestorov (ns1, ns2) - pomocou 2 párov veth adaptérov a distribuovaného prepínača OVS (openvswitch)]()
-  - [5. Prepojenie dvoch sieťových menných priestorov (ns1, ns2) - pomocou 2 portov na distribuovanom prepínači OVS (openvswitch)]()
-- [2016 - Linux Namespaces - IPC namespace]()
-- [2016 - Linux Namespaces - USER namespace]()
-- [2016 - Linux Namespaces - CGROUP namespace]()
+- [2016 - Linux Namespaces - Úvod](http://www.linuxor.sk/howtoz/2016-linux-namespaces-intro)
+- [2016 - Linux Namespaces - MNT namespace](http://www.linuxor.sk/howtoz/2016-linux-namespaces-mnt)
+- [2016 - Linux Namespaces - UTS namespace](http://www.linuxor.sk/howtoz/2016-linux-namespaces-uts)
+- [2016 - Linux Namespaces - PID namespace](http://www.linuxor.sk/howtoz/2016-linux-namespaces-pid)
+- [2016 - Linux Namespaces - NET namespace](http://www.linuxor.sk/howtoz/2016-linux-namespaces-net)
+  - [1. Prepojenie sieťového menného priestoru a hostiteľského systému - pomocou páru veth adaptérov](http://www.linuxor.sk/howtoz/)
+  - [2. Prepojenie dvoch sieťových menných priestorov (ns1, ns2) - pomocou páru veth adaptérov](http://www.linuxor.sk/howtoz/)
+  - [3. Prepojenie dvoch sieťových menných priestorov (ns1, ns2) - pomocou 2 párov veth adaptérov a štandardného Linux prepínača (bridge)](http://www.linuxor.sk/howtoz/)
+  - [4. Prepojenie dvoch sieťových menných priestorov (ns1, ns2) - pomocou 2 párov veth adaptérov a distribuovaného prepínača OVS (openvswitch)](http://www.linuxor.sk/howtoz/)
+  - [5. Prepojenie dvoch sieťových menných priestorov (ns1, ns2) - pomocou 2 portov na distribuovanom prepínači OVS (openvswitch)](http://www.linuxor.sk/howtoz/)
+- [2016 - Linux Namespaces - IPC namespace](http://www.linuxor.sk/howtoz/2016-linux-namespaces-ipc)
+- [2016 - Linux Namespaces - USER namespace](http://www.linuxor.sk/howtoz/2016-linux-namespaces-user)
+- [2016 - Linux Namespaces - CGROUP namespace](http://www.linuxor.sk/howtoz/2016-linux-namespaces-cgroup)
 
 ----------
 
@@ -56,9 +56,8 @@
 
 ### 2013 - Simulácia HP 3PAR 7400 + Cisco MDS9124e (Blade switch) + HP c7000 (BL660gen8, HP BL460gen8)
 
-- [2013 - FC SAN - Cisco MDS 9124e (Blade Switch) - konfigurácia SAN prepínača]()
-- [2013 - FC SAN - Linux - konfigurácia Linux servera]()
-
+- [2013 - FC SAN - Cisco MDS 9124e (Blade Switch) - konfigurácia SAN prepínača]()  
+- [2013 - FC SAN - Linux - konfigurácia Linux servera]()  
 - [2010 - Základy IBM/LSI MPIO ovládača RDAC (Redundant Disk Array Controller) pre Linux]()
 
 ----------

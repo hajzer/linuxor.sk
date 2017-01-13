@@ -1,16 +1,16 @@
 ## LINKz - API
 
-- [Rôzne API pre cloud a virtualizáciu](api-cloud-virtualization.md)
-- [DJB (D.J.Bernstein) knižnice a odvodené knižnice](api-djb-libraries.md)
-- [Minimalistické knižnice](api-minimalistic-libraries.md)
-- [SSH knižnice](api-ssh-libraries.md)
+- [Rôzne API pre cloud a virtualizáciu](http://www.linuxor.sk/linkz/api-cloud-virtualization)
+- [DJB (D.J.Bernstein) knižnice a odvodené knižnice](http://www.linuxor.sk/linkz/api-djb-libraries)
+- [Minimalistické knižnice](http://www.linuxor.sk/linkz/api-minimalistic-libraries)
+- [SSH knižnice](http://www.linuxor.sk/linkz/api-ssh-libraries)
 
 ----------
 
 
 ## LINKz - AUTOMATIZATION
 
-- [Automatizačné technológie](technologies-automatization.md) 
+- [Automatizačné technológie](http://www.linuxor.sk/linkz/technologies-automatization) 
 
 ----------
 
@@ -25,21 +25,21 @@
 
 ## LINKz - DEVELOP
 
-- [Zbierky rôznych algoritmov](develop-algorithms.md)
-- [Best practice pre vývoj systémov](develop-best-practice.md)
-- [Bezpečnosť pri vývoji systémov](develop-security.md)
-- [Atomicita a transakčnosť](develop-transactions-atomicity.md)
-- [Užívateľské rozhranie](develop-user-experience.md)
-- [Javascript, HTML, CSS technológie pre vývoj cross platformových aplikácií](develop-web-cross-platform-applications.md)
-- [Dokumentácie k HTML5 a CSS](develop-web-html-css.md)
+- [Zbierky rôznych algoritmov](http://www.linuxor.sk/linkz/develop-algorithms)
+- [Best practice pre vývoj systémov](http://www.linuxor.sk/linkz/develop-best-practice)
+- [Bezpečnosť pri vývoji systémov](http://www.linuxor.sk/linkz/develop-security)
+- [Atomicita a transakčnosť](http://www.linuxor.sk/linkz/develop-transactions-atomicity)
+- [Užívateľské rozhranie](http://www.linuxor.sk/linkz/develop-user-experience)
+- [Javascript, HTML, CSS technológie pre vývoj cross platformových aplikácií](http://www.linuxor.sk/linkz/develop-web-cross-platform-applications)
+- [Dokumentácie k HTML5 a CSS](http://www.linuxor.sk/linkz/develop-web-html-css)
 
 ----------
 
 
 ## LINKz - DISTRIBUTED SYSTEMS
 
-- [Základy distribuovaných systémov](technologies-distributed-systems.md)
-- [Datacenter Recource Management / Distributed Resource Schedulers]()
+- [Základy distribuovaných systémov](http://www.linuxor.sk/linkz/technologies-distributed-systems)
+- [Datacenter Recource Management / Distributed Resource Schedulers](http://www.linuxor.sk/linkz/)
 
 ----------
 
@@ -48,37 +48,37 @@
 
 ### System
 
-- [systemd](linux-systemd.md)
+- [systemd](http://www.linuxor.sk/linkz/linux-systemd)
 
 ### Kernel
 
-- [Menné priestory (Linux namespaces)]()
-- [Riadiace skupiny (Linux cgroups)]()
+- [Menné priestory (Linux namespaces)](http://www.linuxor.sk/linkz/)
+- [Riadiace skupiny (Linux cgroups)](http://www.linuxor.sk/linkz/)
 
 ### Security
-- [Sandbox technológie pre OS Linux](technologies-linux-sandbox.md)
+- [Sandbox technológie pre OS Linux](http://www.linuxor.sk/linkz/technologies-linux-sandbox)
 
 ----------
 
 
 ## LINKz - SECURITY
 
-- [Security HW](security-hardware.md)
-- [Kryptografické technológie a veci súvisiace](technologies-security-cryptography.md)
+- [Security HW](security-hardware)
+- [Kryptografické technológie a veci súvisiace](http://www.linuxor.sk/linkz/technologies-security-cryptography)
 
 ----------
 
 
 ## LINKz - VIRTUALIZATION
 
-- [Virtualizácia - sieť](technologies-cloud-virtualization-network.md)  
-- [Virtualizácia - unikernel](technologies-cloud-virtualization-unikernel.md)
+- [Virtualizácia - sieť](http://www.linuxor.sk/linkz/technologies-cloud-virtualization-network)  
+- [Virtualizácia - unikernel](http://www.linuxor.sk/linkz/technologies-cloud-virtualization-unikernel)
 
 ----------
 
 
 ## LINKz - XXX
 
-- [Kompresné technológie](technologies-compression.md)
+- [Kompresné technológie](http://www.linuxor.sk/linkz/technologies-compression)
 
 ----------
