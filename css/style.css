@@ -1,0 +1,289 @@
+/* -----------------------------------------------
+
+Author: 3bits
+Description: css file for rounded theme
+----------------------------------------------- */
+
+/* 
+CSS for Text
+
+Basic HTML
+--------------------------------------------------------------------------------*/
+
+body {
+	font: 13px Helvetica, Arial, sans-serif;
+	color : #333;
+}
+
+a {
+	color : #334466;
+}
+
+a:hover {
+	color : #334466;
+	text-decoration : none;
+}
+
+a:focus {
+	outline: 0px dotted invert;
+}
+
+hr {
+	border-color: #ccc;
+	border-style: solid;
+	border-width: 1px 0 0;
+	clear: both;
+	height: 0;
+}
+
+
+/* =Headings
+--------------------------------------------------------------------------------*/
+h1
+{
+	font-size: 22px;
+	font-weight : normal;
+	line-height : 24px;
+}
+
+h2
+{
+	font-size: 20px;
+	font-weight : normal;
+	line-height : 22px;
+}
+
+h3
+{
+	font-size: 18px;
+	font-weight : normal;
+	line-height : 20px;
+}
+
+h4
+{
+	font-size: 14px;
+}
+
+h5
+{
+	font-size: 13px;
+}
+
+h6
+{
+	font-size: 12px;
+}
+
+
+/* =Spacing
+--------------------------------------------------------------------------------*/
+
+ol
+{
+	list-style: decimal;
+}
+
+ul
+{
+	list-style: disc;
+}
+
+li
+{
+	margin-left: 30px;
+}
+
+p,
+dl,
+hr,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ol,
+ul,
+pre,
+table,
+address,
+fieldset {
+	margin-bottom: 15px;
+}
+
+p.meta {
+	margin-top : 30px;
+	padding-top : 15px;
+	border-top : 1px solid #DCDCDC;
+}
+
+body, html {
+	margin: 5px;
+	padding: auto;
+}
+
+body{
+	background: #444444;
+}
+
+*{
+	margin:0;
+	padding:0;
+}
+
+a img{
+	border : none;
+}
+
+:focus {
+	outline: none;
+}
+
+blockquote, q {
+	quotes: none;
+}
+
+.clear{
+	clear : both;
+}
+
+
+#wrapper {
+	min-height:100%;height:auto !important;height:100%;
+	width: 90%;
+	padding : 5px 10px;
+	margin : auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background: #ffffff;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
+
+#wrapper .empty {
+	height:80px;
+	clear : both;
+}
+ 
+#header{
+	height: 50px;
+	width: 95%;
+	margin: auto;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+#logo {
+	font-size: 48px;
+	font-weight: bold;
+	border: none;
+}
+
+#main_menu{
+	background-color : #334466;
+	height: 35px;
+	width: 95%;
+	margin: auto;
+	padding: 5px;
+	vertical-align: middle;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
+
+#content{
+	width: 95%;
+	margin: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	display: block;
+	clear: both;
+	
+}
+
+#sidebar{
+	width: 180px;
+	float: left;
+	background-color: #f2f2f2;
+	padding: 10px;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+	clear:left;
+	margin-right: 10px;
+}
+
+#text{
+	margin-left: 20px;
+	overflow: auto;
+}
+
+#footer{
+    clear: left;
+	width: 95%;
+	margin: auto;
+	margin-bottom: 5px;
+	height: 35px;
+	color: #ffffff;
+	background: #334466;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	text-align: center;
+	vertical-align: middle;
+	padding: 3px;
+}
+
+#footer a{
+	color: #ffffff;
+}
+
+#clearing{
+      clear:both;
+}
+
+
+
+/*
+Author: Craig Erskine
+Description: Dynamic Menu System
+*/
+
+#main_menu ul {
+	margin: 0;
+	padding: 0 0 0px; 
+	list-style: none; 
+	position: relative;
+	width : 580px;
+	height : 40px;
+	float : left;
+}
+
+#main_menu ul li { 
+	float: left; 
+	display: inline; 
+	position: relative;
+	padding : 0;
+	margin : 0;
+}
+
+/* Root Menu */
+#main_menu ul a {
+	padding: 5px;
+	float: left;
+	display: block;
+	text-decoration: none;
+	margin : 3px;
+	font-weight : bold;
+	background-color : #334466;
+	color: #FFF;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+
+}
+
+/* Root Menu Hover Persistence */
+#main_menu ul li a:hover, #main_menu ul li.current a{
+	background-color : #4682B4;
+	color: #FFF;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
