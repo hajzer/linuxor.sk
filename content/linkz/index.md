@@ -73,6 +73,7 @@
 
 - [Virtualizácia - sieť](http://www.linuxor.sk/linkz/technologies-cloud-virtualization-network)  
 - [Virtualizácia - unikernel](http://www.linuxor.sk/linkz/technologies-cloud-virtualization-unikernel)
+- [Virtualizácia - emerging hypervizors](http://www.linuxor.sk/linkz/technologies-cloud-virtualization-emerging-hypervisors)
 
 ----------
 
