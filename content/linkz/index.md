@@ -32,6 +32,8 @@
 - [Užívateľské rozhranie](http://www.linuxor.sk/linkz/develop-user-experience)
 - [Javascript, HTML, CSS technológie pre vývoj cross platformových aplikácií](http://www.linuxor.sk/linkz/develop-web-cross-platform-applications)
 - [Dokumentácie k HTML5 a CSS](http://www.linuxor.sk/linkz/develop-web-html-css)
+- [Odkazy na zdroje o Open Source licenciách](http://www.linuxor.sk/linkz/develop-open-source-licenses)
+
 
 ----------
 
