@@ -1,7 +1,6 @@
 
 
 # Ranná káva - 2014
-##
 
 ## Ranna kava - Papierova elektronika
 
@@ -302,8 +301,8 @@ BioDigital Human - Ludske telo vizualne - Cool
 Bonus - zaujimave WebGL kniznice  
 [http://scenejs.org/](http://scenejs.org/)  
 [http://threejs.org/](http://threejs.org/)  
-[http://www.babylonjs.com/](http://www.babylonjs.com/ )  
-[http://asmjs.org/](http://asmjs.org/ )
+[http://www.babylonjs.com/](http://www.babylonjs.com/)  
+[http://asmjs.org/](http://asmjs.org/)
 
 SuperBonus od Genialneho programatora - Emulator PC v JavaScripte  
 [http://bellard.org/jslinux/](http://bellard.org/jslinux/)
@@ -359,7 +358,7 @@ HIGHWAY 2 C63 AMG VS SWEDISH POLICE BEST - nahanacka
 
 ## Ranna kava - Apple vyrobky
 
-The New Mactini - The Peter Serafinowicz Show Christmas Special - BBC Two 
+The New Mactini - The Peter Serafinowicz Show Christmas Special - BBC Two  
 [https://www.youtube.com/watch?v=BGGOn-H7s3Q](https://www.youtube.com/watch?v=BGGOn-H7s3Q)
 
 iToilet: Your interactive toilet from Apple  
