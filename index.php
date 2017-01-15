@@ -75,6 +75,7 @@ $Parsedown = new Parsedown();
 echo '<article class="markdown-body">';
 echo Parsedown::instance()
    ->text($html);
+echo '</article>';
 
 
 /* INSERT HTML FOOTER */
