@@ -51,6 +51,7 @@
 ### System
 
 - [systemd](http://www.linuxor.sk/linkz/linux-systemd)
+- [Linux IO info](http://www.linuxor.sk/linkz/linux-io)
 
 ### Kernel
 
