@@ -13,7 +13,7 @@
 
 Menný priestor NET (Network stack namespace) slúži na izoláciu sieťových systémových prostriedkov. Každý sieťový menný priestor má svoje sieťové zariadenia/adaptéry, IP adresy, smerovacie tabuľky, čísla portov a vlastný adresár "/proc/net".
 
-![mnt_namespace](http://www.linuxor.sk/howtoz/images/net_namespace_v01.png)
+![mnt_namespace](http://www.linuxor.sk/content/howtoz/images/net_namespace_v01.png)
 
 
 ## 2 Základná práca s NET mennými priestormi

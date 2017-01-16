@@ -13,7 +13,7 @@
 
 Menný priestor UTS (UNIX Time-sharing System) slúži na izoláciu dvoch systémových identifikátorov a to názov servera (nodename/hostname) a názov domény (domainname), ktoré vracia systemové volanie "uname()". 
 
-![mnt_namespace](http://www.linuxor.sk/howtoz/images/uts_namespace_v01.png)
+![mnt_namespace](http://www.linuxor.sk/content/howtoz/images/uts_namespace_v01.png)
 
 
 ## 2 Základná práca s UTS mennými priestormi

@@ -13,7 +13,7 @@
 
 Menný priestor PID (Process identifier namespace) slúži na izoláciu identifikačných čísiel procesov (PID=Proces IDentifier). Programy/procesy, ktoré sa nachádzajú v rozdielnych PID menných priestoroch môžu mať rovnaký identifikátor procesu (rovnaké PID číslo).
 
-![mnt_namespace](http://www.linuxor.sk/howtoz/images/mnt_namespace_v01.png)
+![mnt_namespace](http://www.linuxor.sk/content/howtoz/images/mnt_namespace_v01.png)
 
 
 ## 2 Základná práca s PID mennými priestormi
