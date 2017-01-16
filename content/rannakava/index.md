@@ -12,6 +12,23 @@ Ranná káva je môj emailový informačný letáčik (news-letter) obsahujúci 
 # Ranná káva - 2017
 
 
+## Ranna kava - Sutaz umelej inteligencie v hackovani
+
+Welcome to DARPA's Cyber Grand Challenge  
+[https://www.youtube.com/watch?v=-g5Kt2ayMN0](https://www.youtube.com/watch?v=-g5Kt2ayMN0)
+
+DARPA Cyber Grand Challenge: What Is Capture the Flag?  
+[https://www.youtube.com/watch?v=qSgYu3w3DMM](https://www.youtube.com/watch?v=qSgYu3w3DMM)
+
+DARPA's Cyber Grand Challenge: Expanded Highlights from the Final Event  
+[https://www.youtube.com/watch?v=v5ghK6yUJv4](https://www.youtube.com/watch?v=v5ghK6yUJv4)
+
+**BONUS**
+
+DARPAtv - Zoznam videi z akcie DARPA's Cyber Grand Challenge  
+[https://www.youtube.com/playlist?list=PL6wMum5UsYvZx2x9QGhDY8j3FcQUH7uY0](https://www.youtube.com/playlist?list=PL6wMum5UsYvZx2x9QGhDY8j3FcQUH7uY0)
+
+
 ## Ranna kava - Bezpecnejsie na cestach
 
 2017 Honda Riding Assist motorcycle test drive  
