@@ -84,6 +84,11 @@
 - [2008 - Squid autentizácia a monitorovanie užívateľov]()
 - [2007 - Debian 4 - proFTPD (chroot) - ftp-prox (chroot)]()
 
+
+### Linux
+
+- [2007 - Môj (vtedy ešte pod pseudonymom BH) starší článok o LIDS (Linux Intrusion Detection System) uverejnený na blackhole.sk](http://linuxos.sk/blackhole/clanok/1936/)
+
 ----------
 
 
