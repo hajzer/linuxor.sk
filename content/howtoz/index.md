@@ -14,7 +14,7 @@
 - [2016 - Linux Namespaces - UTS namespace](http://www.linuxor.sk/howtoz/2016-linux-namespaces-uts)
 - [2016 - Linux Namespaces - PID namespace](http://www.linuxor.sk/howtoz/2016-linux-namespaces-pid)
 - [2016 - Linux Namespaces - NET namespace](http://www.linuxor.sk/howtoz/2016-linux-namespaces-net)
-  - [1. Prepojenie sieťového menného priestoru a hostiteľského systému - pomocou páru veth adaptérov]()
+  - [1. Prepojenie sieťového menného priestoru a hostiteľského systému - pomocou páru veth adaptérov](http://www.linuxor.sk/howtoz/2016-linuxnamespace-net-ns-veth-veth-ns)
   - [2. Prepojenie dvoch sieťových menných priestorov (ns1, ns2) - pomocou páru veth adaptérov]()
   - [3. Prepojenie dvoch sieťových menných priestorov (ns1, ns2) - pomocou 2 párov veth adaptérov a štandardného Linux prepínača (bridge)]()
   - [4. Prepojenie dvoch sieťových menných priestorov (ns1, ns2) - pomocou 2 párov veth adaptérov a distribuovaného prepínača OVS (openvswitch)]()
