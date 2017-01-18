@@ -12,6 +12,27 @@ Ranná káva je môj emailový informačný letáčik (news-letter) obsahujúci 
 # Ranná káva - 2017
 
 
+## Ranna kava - Alternativne hudobne nastroje 5
+
+"Ei WADA" performance show in the Ibaraki-ken north area Part1  
+[https://www.youtube.com/watch?v=PJudRvR3FBk](https://www.youtube.com/watch?v=PJudRvR3FBk)
+
+"Ei WADA" performance show in the Ibaraki-ken north area Part2  
+[https://www.youtube.com/watch?v=Y7G_HrOQlLQ](https://www.youtube.com/watch?v=Y7G_HrOQlLQ)
+
+
+## Ranna kava - Dopocitanie detailov na fotkach
+
+Why I Don't Watch CSI  
+[https://www.youtube.com/watch?v=3uoM5kfZIQ0](https://www.youtube.com/watch?v=3uoM5kfZIQ0)
+
+What is Google RAISR? Google RAISR Software | Smart Upsampling of Photos  
+[https://www.youtube.com/watch?v=wQhLNByOMyk](https://www.youtube.com/watch?v=wQhLNByOMyk)
+
+Google's RAISR sharpens low-resolution images using machine learning  
+[https://www.youtube.com/watch?v=9FYPEYgDdzE](https://www.youtube.com/watch?v=9FYPEYgDdzE)
+
+
 ## Ranna kava - Sutaz umelej inteligencie v hackovani
 
 Welcome to DARPA's Cyber Grand Challenge  
