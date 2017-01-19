@@ -12,6 +12,15 @@ Ranná káva je môj emailový informačný letáčik (news-letter) obsahujúci 
 # Ranná káva - 2017
 
 
+## Ranna kava - Parkovacie kreslo a snezny samopal
+
+INTELLIGENT PARKING CHAIR | Inspired by NISSAN #技術の日産  
+[https://www.youtube.com/watch?v=O1D07dTILH0](https://www.youtube.com/watch?v=O1D07dTILH0)
+
+This machine gun runs on snowballs  
+[https://www.youtube.com/watch?v=opHXqenh09k](https://www.youtube.com/watch?v=opHXqenh09k)
+
+
 ## Ranna kava - Alternativne hudobne nastroje 5
 
 "Ei WADA" performance show in the Ibaraki-ken north area Part1  
