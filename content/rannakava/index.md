@@ -12,6 +12,33 @@ Ranná káva je môj emailový informačný letáčik (news-letter) obsahujúci 
 # Ranná káva - 2017
 
 
+## Ranna kava - Ovladanie myslou
+
+Noninvasive EEG-based control of a robotic arm for reach and grasp tasks  
+[https://www.youtube.com/watch?v=w6QEGeIKHw0](https://www.youtube.com/watch?v=w6QEGeIKHw0)
+
+Controlling Drones With Your Mind  
+[https://www.youtube.com/watch?v=hLjxMjBlB9k](https://www.youtube.com/watch?v=hLjxMjBlB9k)
+
+
+## Ranna kava - Protipoziarna
+
+Fire Fighting Robot Thermite T3.0  
+[https://www.youtube.com/watch?v=yKddH7N1zbw](https://www.youtube.com/watch?v=yKddH7N1zbw)
+
+Japanese automatic fire fighting system  
+[https://www.youtube.com/watch?v=N12Gkkfe8iY](https://www.youtube.com/watch?v=N12Gkkfe8iY)
+
+
+## Ranna kava - iBlbosti
+
+Apple Mirror - Smart Touchscreen Mirror  
+[https://www.youtube.com/watch?v=AGbfaadASVk](https://www.youtube.com/watch?v=AGbfaadASVk)
+
+IDIOTS  
+[https://www.youtube.com/watch?v=NCwBkNgPZFQ](https://www.youtube.com/watch?v=NCwBkNgPZFQ)
+
+
 ## Ranna kava - Parkovacie kreslo a snezny samopal
 
 INTELLIGENT PARKING CHAIR | Inspired by NISSAN #技術の日産  
