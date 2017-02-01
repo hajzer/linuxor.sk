@@ -52,6 +52,7 @@
 
 - [systemd](http://www.linuxor.sk/linkz/linux-systemd)
 - [Linux IO info](http://www.linuxor.sk/linkz/linux-io)
+- [Linux Terminal Recording](http://www.linuxor.sk/linkz/linux-terminal-record)
 
 ### Kernel
 
