@@ -12,6 +12,80 @@ Ranná káva je môj emailový informačný letáčik (news-letter) obsahujúci 
 # Ranná káva - 2017
 
 
+## Ranna kava - Futbalove sipky a Utuzovanie vztahu
+
+Introducing Foot Darts  
+[https://www.youtube.com/watch?v=mZQK03Ym9Kw](https://www.youtube.com/watch?v=mZQK03Ym9Kw)
+
+Every couples should try this before get married  
+[https://www.youtube.com/watch?v=9uEpP5XWEmU](https://www.youtube.com/watch?v=9uEpP5XWEmU)
+
+
+## Ranna kava - Radostna
+
+(ENGL SUB) Ksenia Parkhatskaya, TV show Танцуют Вси 5 Kiev, Ukraine  
+[https://www.youtube.com/watch?v=e4sz_FJM5OM](https://www.youtube.com/watch?v=e4sz_FJM5OM)
+
+Radost bika Bandita, ko se osvobodi verige  
+[https://www.youtube.com/watch?v=XXHysSElZC8](https://www.youtube.com/watch?v=XXHysSElZC8)
+
+
+## Ranna kava - Technologicka
+
+Google Earth VR — Bringing the whole wide world to virtual reality  
+[https://www.youtube.com/watch?v=SCrkZOx5Q1M](https://www.youtube.com/watch?v=SCrkZOx5Q1M)
+
+LIVE@IFA: Better Living Tomorrow  
+[https://www.youtube.com/watch?v=nRiO0txyxNQ](https://www.youtube.com/watch?v=nRiO0txyxNQ)
+
+
+## Ranna kava - Nebezpecne odtlacky prstov
+
+**Nebezpecie standardnych skenerov odtlackov prstov**
+
+2017 - Japan researchers warn of fingerprint theft from 'peace' sign  
+[https://phys.org/news/2017-01-japan-fingerprint-theft-peace.html](https://phys.org/news/2017-01-japan-fingerprint-theft-peace.html)
+
+2016 - 23673 rizne Press TV 3D printer used to create fingerprint to unlock phone
+[https://www.youtube.com/watch?v=08cADp8KYa0](https://www.youtube.com/watch?v=08cADp8KYa0)
+
+2014 - Chaos Communication Congress - Gefahren von Kameras für (biometrische) Authentifizierungsverfahren [31c3] von starbug/Jan Krissler  
+[https://www.youtube.com/watch?v=pIY6k4gvQsY](https://www.youtube.com/watch?v=pIY6k4gvQsY)
+
+2014 - Anil Jain 3-D fingerprint  
+[https://www.youtube.com/watch?v=tnBFUpJqsjE](https://www.youtube.com/watch?v=tnBFUpJqsjE)
+
+
+**Ultrasonicke skenery odtlackov - chvilkova utecha bezpecnosti ?**
+
+2016 - Snapdragon Sense ID fingerprint technology with innovative liveness detection  
+[https://www.youtube.com/watch?v=0df9m0qTo-8](https://www.youtube.com/watch?v=0df9m0qTo-8)
+
+2016 - Xiaomi - Mi 5S Fingerprint Technology (Engineer)  
+[https://www.youtube.com/watch?v=26Anr43MbJg](https://www.youtube.com/watch?v=26Anr43MbJg)
+
+
+## Ranna kava - Zvieracia 5
+
+Sunbathers Shocked When Momma Bear Take Her Cubs For a Dip In Lake Tahoe  
+[https://www.youtube.com/watch?v=fQRL220kp-A](https://www.youtube.com/watch?v=fQRL220kp-A)
+
+Lion, Tiger and Bear Are Inseparable After Being Found Abused in Basement  
+[https://www.youtube.com/watch?v=dcs-H5p-MYw](https://www.youtube.com/watch?v=dcs-H5p-MYw)
+
+Drone & Tigers - dizifilms.ca  
+[https://www.youtube.com/watch?v=Xfk6QcfyxKE](https://www.youtube.com/watch?v=Xfk6QcfyxKE)
+
+
+## Ranna kava - Slovač
+
+Baštrng - Mor ho! - Michal Kubovčík  
+[https://www.youtube.com/watch?v=rfpofML0IMg](https://www.youtube.com/watch?v=rfpofML0IMg)
+
+Baštrng - Margita a Besná - Michal Kubovčík  
+[https://www.youtube.com/watch?v=VDqSUu-JU6s](https://www.youtube.com/watch?v=VDqSUu-JU6s)
+
+
 ## Ranna kava - Ovladanie myslou
 
 Noninvasive EEG-based control of a robotic arm for reach and grasp tasks  
