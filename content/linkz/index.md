@@ -10,7 +10,7 @@
 
 ## LINKz - AUTOMATIZATION
 
-- [Automatizačné technológie](http://www.linuxor.sk/linkz/technologies-automatization) 
+- [Automatizačné technológie](http://www.linuxor.sk/linkz/) 
 
 ----------
 
@@ -41,7 +41,7 @@
 ## LINKz - DISTRIBUTED SYSTEMS
 
 - [Základy distribuovaných systémov](http://www.linuxor.sk/linkz/technologies-distributed-systems)
-- [Datacenter Recource Management / Distributed Resource Schedulers](http://www.linuxor.sk/linkz/)
+- [Datacenter Recource Management / Distributed Resource Schedulers]()
 
 ----------
 
@@ -55,8 +55,8 @@
 
 ### Kernel
 
-- [Menné priestory (Linux namespaces)](http://www.linuxor.sk/linkz/)
-- [Riadiace skupiny (Linux cgroups)](http://www.linuxor.sk/linkz/)
+- [Menné priestory (Linux namespaces)]()
+- [Riadiace skupiny (Linux cgroups)]()
 
 ### Security
 - [Sandbox technológie pre OS Linux](http://www.linuxor.sk/linkz/technologies-linux-sandbox)
@@ -72,7 +72,7 @@
 
 ## LINKz - SECURITY
 
-- [Security HW](security-hardware)
+- [Security HW]()
 - [Kryptografické technológie a veci súvisiace](http://www.linuxor.sk/linkz/technologies-security-cryptography)
 
 ----------
