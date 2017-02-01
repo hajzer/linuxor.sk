@@ -10,7 +10,7 @@
 
 ## LINKz - AUTOMATIZATION
 
-- [Automatizačné technológie](http://www.linuxor.sk/linkz/) 
+- [Automatizačné technológie]() 
 
 ----------
 
