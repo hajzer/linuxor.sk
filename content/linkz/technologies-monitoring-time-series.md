@@ -1,4 +1,16 @@
-## Time-Series Monitoring Systems
+
+
+
+## Time-Series Monitoring Systems - Informácie
+
+- [2016 - Top10 Time Series Databases (****)](https://blog.dataloop.io/top10-open-source-time-series-databases)  
+Porovnanie 10 Time-Series databaz (DalmatinerDB, InfluxDB, Prometheus, Riak TS, OpenTSDB, KairosDB, Elasticsearch, Druid, Blueflood, Graphite (Whisper)).
+
+- [Open Source Time Series DB Comparison (****)](https://docs.google.com/spreadsheets/d/1sMQe9oOKhMhIVw9WmuCEWdPtAoccJ4a-IuZv4fXDHxM/pubhtml)
+
+
+
+## Time-Series Monitoring Systems - Technológie
 
 
 ## Prometheus
@@ -124,11 +136,5 @@ This allows features that otherwise wouldn't be possible:
 [DalmatinerDB - Documentation](https://dalmatiner.readme.io/docs)
 
 
-## Dalšie súviciace informácie
-
-- [2016 - Top10 Time Series Databases (****)](https://blog.dataloop.io/top10-open-source-time-series-databases)  
-Porovnanie 10 Time-Series databaz (DalmatinerDB, InfluxDB, Prometheus, Riak TS, OpenTSDB, KairosDB, Elasticsearch, Druid, Blueflood, Graphite (Whisper)).
-
-- [Open Source Time Series DB Comparison (****)](https://docs.google.com/spreadsheets/d/1sMQe9oOKhMhIVw9WmuCEWdPtAoccJ4a-IuZv4fXDHxM/pubhtml)
 
 
