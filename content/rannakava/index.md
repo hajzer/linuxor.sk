@@ -12,6 +12,33 @@ Ranná káva je môj emailový informačný letáčik (news-letter) obsahujúci 
 # Ranná káva - 2017
 
 
+## Ranna kava - Rockova
+
+Tenacious D "Beelzeboss" with lyrics  
+[https://www.youtube.com/watch?v=vOBKxUT9Da4](https://www.youtube.com/watch?v=vOBKxUT9Da4)
+
+Smells Like Teen Spirit - Rockin'1000 That's Live Official  
+[https://www.youtube.com/watch?v=Ul8vqaGGnY0](https://www.youtube.com/watch?v=Ul8vqaGGnY0)
+
+
+## Ranna kava - Tankova
+
+Как сделать танк за пять минут? / How to make a tank in five minutes?  
+[https://www.youtube.com/watch?v=MYLNXfiU25M](https://www.youtube.com/watch?v=MYLNXfiU25M)
+
+Goliath Mini Tank Gokart Third test drive  
+[https://www.youtube.com/watch?v=SXs5RLrilJs](https://www.youtube.com/watch?v=SXs5RLrilJs)
+
+
+## Ranna kava - NoName
+
+Assassin's Creed Paper Parkour  
+[https://www.youtube.com/watch?v=zTgPHgJbysg](https://www.youtube.com/watch?v=zTgPHgJbysg)
+
+Maybe the best robot demo ever | Marco Tempest  
+[https://www.youtube.com/watch?v=FJJe8PXEUhk](https://www.youtube.com/watch?v=FJJe8PXEUhk)
+
+
 ## Ranna kava - Futbalove sipky a Utuzovanie vztahu
 
 Introducing Foot Darts  
