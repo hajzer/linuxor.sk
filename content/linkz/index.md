@@ -17,6 +17,7 @@
 
 ## LINKz - CONTAINERS
 
+- [Infraštruktúrne systémy/komponenty v jazyku GO](https://www.linuxor.sk/linkz/technologies-infrastructure-components-in-go)
 - [Container Building Blocks]()
 - [Container Security]()
 
@@ -41,6 +42,8 @@
 ## LINKz - DISTRIBUTED SYSTEMS
 
 - [Základy distribuovaných systémov](https://www.linuxor.sk/linkz/technologies-distributed-systems)
+- [Distributed systems frameworks](https://www.linuxor.sk/linkz/technologies-distributed-systems-frameworks)
+- [Vývoj distribuovaných systémov v jazyku GO](https://www.linuxor.sk/linkz/technologies-distributed-systems-develop-go)
 - [Datacenter Recource Management / Distributed Resource Schedulers]()
 
 ----------
