@@ -60,7 +60,7 @@ LuckyTV: Donald Trump vs Hillary Clinton "Time of my Life" (Official)
 The Life of a Bolt  
 [https://www.youtube.com/watch?v=iptAkpqjtMQ](https://www.youtube.com/watch?v=iptAkpqjtMQ)
 
-High School Girl?　メーク女子高生のヒミツ （The Secret of High School Girls） 
+High School Girl?　メーク女子高生のヒミツ （The Secret of High School Girls）  
 [https://www.youtube.com/watch?v=5n3Db6pMQ-8](https://www.youtube.com/watch?v=5n3Db6pMQ-8)
 
 
