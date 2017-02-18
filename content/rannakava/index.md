@@ -12,6 +12,76 @@ Ranná káva je môj emailový informačný letáčik (news-letter) obsahujúci 
 # Ranná káva - 2017
 
 
+
+## Ranna kava - Organova
+
+Working paper organ / Действующий оргАн из бумаги  
+[https://www.youtube.com/watch?v=6cD1NPvRNLQ](https://www.youtube.com/watch?v=6cD1NPvRNLQ)
+
+interstellar "First Step" Hans Zimmer soundtrack - church Organ / piano cover epic  
+[https://www.youtube.com/watch?v=Ctykf8qh288](https://www.youtube.com/watch?v=Ctykf8qh288)
+
+
+## Ranna kava - Spomienkova
+
+Sir Nicholas Winton - BBC Programme "That's Life" aired in 1988  
+[https://www.youtube.com/watch?v=6_nFuJAF5F0](https://www.youtube.com/watch?v=6_nFuJAF5F0)
+
+Charlie Chaplin - Final Speech from The Great Dictator  
+[https://www.youtube.com/watch?v=J7GY1Xg6X20](https://www.youtube.com/watch?v=J7GY1Xg6X20)
+
+
+## Ranna kava - Neviditelna
+
+
+## Ranna kava - Nostalgicka - Kral
+
+Bruce lee one inch punch ( rare footage )  
+[https://www.youtube.com/watch?v=YRm9rCXYhcA](https://www.youtube.com/watch?v=YRm9rCXYhcA)
+
+Bruce Lee - International Karate Championships 1967 ブルース・リー (武道を変した男)  
+[https://www.youtube.com/watch?v=Wym1TO_cCRM](https://www.youtube.com/watch?v=Wym1TO_cCRM)
+
+Bruce Lee Explains How MMA Not On His Level  
+[https://www.youtube.com/watch?v=sWvlOjKE9x0](https://www.youtube.com/watch?v=sWvlOjKE9x0)
+
+
+## Ranna kava - Trumpove hity
+
+Trumpular | Pogo  
+[https://www.youtube.com/watch?v=1vx3_2ks5qQ](https://www.youtube.com/watch?v=1vx3_2ks5qQ)
+
+LuckyTV: Donald Trump vs Hillary Clinton "Time of my Life" (Official)  
+[https://www.youtube.com/watch?v=R8Wde1fFvPg](https://www.youtube.com/watch?v=R8Wde1fFvPg)
+
+
+## Ranna kava - Tajomstva skrutky a dievcat
+
+The Life of a Bolt  
+[https://www.youtube.com/watch?v=iptAkpqjtMQ](https://www.youtube.com/watch?v=iptAkpqjtMQ)
+
+High School Girl?　メーク女子高生のヒミツ （The Secret of High School Girls） 
+[https://www.youtube.com/watch?v=5n3Db6pMQ-8](https://www.youtube.com/watch?v=5n3Db6pMQ-8)
+
+
+## Ranna kava - Moderne expozicie
+
+Box  
+[https://www.youtube.com/watch?v=lX6JcybgDFo](https://www.youtube.com/watch?v=lX6JcybgDFo)
+
+A 360 Degree Look Inside Nonotak's Hoshi  
+[https://www.youtube.com/watch?v=QE2oiIcjHMQ](https://www.youtube.com/watch?v=QE2oiIcjHMQ)
+
+
+## Ranna kava - Kuzelnicka
+
+Smoothini: Bar Magician Flies Through Amazing Tricks - America's Got Talent 2014  
+[https://www.youtube.com/watch?v=ZTy3qG_qInU](https://www.youtube.com/watch?v=ZTy3qG_qInU)
+
+BEST Magic Show in the world 2016 - BEST Magician America's Got Talent 2016  
+[https://www.youtube.com/watch?v=DRsvWR48pbw](https://www.youtube.com/watch?v=DRsvWR48pbw)
+
+
 ## Ranna kava - Rockova
 
 Tenacious D "Beelzeboss" with lyrics  
