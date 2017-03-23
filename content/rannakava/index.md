@@ -12,6 +12,59 @@ Ranná káva je môj emailový informačný letáčik (news-letter) obsahujúci 
 # Ranná káva - 2017
 
 
+## Ranna kava - Letiaca
+
+Luke Aikins No Parachute 25,000 Feet Airplane Jump Complete Video  
+[https://www.youtube.com/watch?v=GaANi96Z-Wg](https://www.youtube.com/watch?v=GaANi96Z-Wg)
+
+Hoverbike Scorpion-3 TRAILER 2017  
+[https://www.youtube.com/watch?v=odVFa_3lmiM](https://www.youtube.com/watch?v=odVFa_3lmiM)
+
+
+## Ranna kava - Alternativne hudobne nastroje 6
+
+DR. WILYS CASTLE / MEGA MAN 2 played on MODULIN  
+[https://www.youtube.com/watch?v=QaW5K85UDR0](https://www.youtube.com/watch?v=QaW5K85UDR0)
+
+Piano Tiles 2 Robot | Beginner 21.079 Record  
+[https://www.youtube.com/watch?v=fqOW84ZTL7k](https://www.youtube.com/watch?v=fqOW84ZTL7k)
+
+
+## Ranna kava - Politicka
+
+BIJOUTERRIER - Vláda OFICIÁLNY VIDEOKLIP  
+[https://www.youtube.com/watch?v=rksvm80aXRE](https://www.youtube.com/watch?v=rksvm80aXRE)
+
+SMRADI  
+[https://www.youtube.com/watch?v=z4Zt1c6Y3Zg](https://www.youtube.com/watch?v=z4Zt1c6Y3Zg)
+
+
+## Ranna kava - Bicyklova
+
+The worlds smallest folding bike  
+[https://www.youtube.com/watch?v=YHhVN0O2sAE](https://www.youtube.com/watch?v=YHhVN0O2sAE)
+
+Arc Bicycle | 3D-Printing stainless steel  
+[https://www.youtube.com/watch?v=Pa4m9JwGzlA](https://www.youtube.com/watch?v=Pa4m9JwGzlA)
+
+
+## Ranna kava - Papierove motorceky
+
+v8 working paper engine model  
+[https://www.youtube.com/watch?v=Pf3jnP6AbM0](https://www.youtube.com/watch?v=Pf3jnP6AbM0)
+
+Rotary working paper engine model  
+[https://www.youtube.com/watch?v=QDR40Eyuu7w](https://www.youtube.com/watch?v=QDR40Eyuu7w)
+
+
+## Ranna kava - Alternativny hudobnici
+
+Compressorhead in New York  
+[https://www.youtube.com/watch?v=tiIvtH3P8BA](https://www.youtube.com/watch?v=tiIvtH3P8BA)
+
+The Revenge: Timo Boll vs. KUKA Robot  
+[https://www.youtube.com/watch?v=lv6op2HHIuM](https://www.youtube.com/watch?v=lv6op2HHIuM)
+
 
 ## Ranna kava - Organova
 
