@@ -2,6 +2,8 @@
 
 ## Odkazy na zdroje o Open source licenciách
 
+- [2017 - 5 Legal Risks For Companies Involved in Open Source Software Development](https://www.linux.com/blog/learn/chapter/open-source-management/2017/3/5-legal-risks-companies-involved-open-source-software-development)
+
 - [GNU Licenses](http://www.gnu.org/licenses/index.html)
 
 - [Various Licenses and Comments about Them (*****)](http://www.gnu.org/licenses/license-list.html)  
