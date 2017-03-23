@@ -4,7 +4,7 @@
 
 Ranná káva je môj emailový informačný letáčik (news-letter) obsahujúci prevažne dva (niekedy aj viac) odkazy na videá na rôzne témy (technologické novinky, zábavné videá, atď. ), ktoré sú umiestnené na video portále **YouTube**. Emaily s **"Rannou kávou"** zasielam pravidelne svojim známym každý deň v ktorý som v práci, ale rozhodol som sa ich zverejniť aj na tomto mieste. Prajem príjemnú zábavu.
 
-- [Archív - Ranná káva - 2016](http://www.linuxor.sk/rannakava/rannakava-2016)
+- [Archív - Ranná káva - 2016 (Ešte nekompletná)](http://www.linuxor.sk/rannakava/rannakava-2016)
 - [Archív - Ranná káva - 2015](http://www.linuxor.sk/rannakava/rannakava-2015)
 - [Archív - Ranná káva - 2014](http://www.linuxor.sk/rannakava/rannakava-2014)
 
