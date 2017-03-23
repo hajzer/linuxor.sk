@@ -31,14 +31,16 @@ Prva prednaska o CAP teoreme od jeho tvorcu (Eric Brewer).
 - [The Raft Consensus Algorithm](https://raft.github.io/)  
 Raft is a consensus algorithm that is designed to be easy to understand. It's equivalent to Paxos in fault-tolerance and performance. The difference is that it's decomposed into relatively independent subproblems, and it cleanly addresses all major pieces needed for practical systems. We hope Raft will make consensus available to a wider audience, and that this wider audience will be able to develop a variety of higher quality consensus-based systems than are available today.
 - [Raft paper](https://raft.github.io/raft.pdf)
-- [The Secret Lives of Data](http://thesecretlivesofdata.com/raft/)
-<br>
+- [The Secret Lives of Data](http://thesecretlivesofdata.com/raft/)  
 Pekne vizualizacie roznych algoritmov zo sveta distribuovanych systemov (zatial len RAFT).
  - [What is Distributed Consensus](http://thesecretlivesofdata.com/raft/#intro)
  - [Protocol Overview](http://thesecretlivesofdata.com/raft/#overview)
  - [Leader Election](http://thesecretlivesofdata.com/raft/#election)
  - [Log Replication](http://thesecretlivesofdata.com/raft/#replication)
  - [Other Resources](http://thesecretlivesofdata.com/raft/#conclusion)
+- [2017 - RAFT Explained – Part 1/3: Introduction to the Consensus Problem](http://container-solutions.com/raft-explained-part-1-the-consenus-problem/)
+- [2017 - RAFT Explained – Part 2/3: Overview of the Core Protocol](http://container-solutions.com/raft-explained-part-23-overview-core-protocol/)
+- [2017 - RAFT Explained – Part 3/3: Safety and Liveness Guarantees, Conclusion](http://container-solutions.com/raft-explained-part-33-safety-liveness-guarantees-conclusion/)
 
 
 ## Testy korektnosti Distribuovaných systémov
@@ -56,6 +58,8 @@ Jepsen is an effort to improve the safety of distributed databases, queues, cons
 
 ## Ďalšie zdroje informácií 
 
+- [A Distributed Systems Reading List (*****)](https://dancres.github.io/Pages/)  
+I often argue that the toughest thing about distributed systems is changing the way you think. The below is a collection of material I've found useful for motivating these changes. 
 - [awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems)  
 A (hopefully) curated list on awesome material on distributed systems, inspired by other awesome frameworks like awesome-python. Most links will tend to be readings on architecture itself rather than code itself.
 - [awesome-distributed-systems](https://github.com/kevinxhuang/awesome-distributed-systems)  

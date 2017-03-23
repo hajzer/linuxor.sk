@@ -18,6 +18,10 @@
 ## LINKz - CONTAINERS
 
 - [Infraštruktúrne systémy/komponenty v jazyku GO](https://www.linuxor.sk/linkz/technologies-infrastructure-components-in-go)
+- [Container technologies - Runtimes](https://www.linuxor.sk/linkz/technologies-container-runtime)
+- [Container technologies - Platforms](https://www.linuxor.sk/linkz/technologies-container-platforms)
+- [Container technologies - Minimal OS](https://www.linuxor.sk/linkz/technologies-container-os)
+- [Container technologies - API](https://www.linuxor.sk/linkz/technologies-container-api)
 - [Container Building Blocks]()
 - [Container Security]()
 
@@ -44,7 +48,9 @@
 - [Základy distribuovaných systémov](https://www.linuxor.sk/linkz/technologies-distributed-systems)
 - [Distributed systems frameworks](https://www.linuxor.sk/linkz/technologies-distributed-systems-frameworks)
 - [Vývoj distribuovaných systémov v jazyku GO](https://www.linuxor.sk/linkz/technologies-distributed-systems-develop-go)
-- [Datacenter Recource Management / Distributed Resource Schedulers]()
+- [Datacenter Recource Management / Distributed Resource Schedulers](https://www.linuxor.sk/linkz/technologies-datacenter-resource-management)
+- [Datacenter Recource Management / Distributed Resource Schedulers - Implementations](https://www.linuxor.sk/linkz/technologies-datacenter-resource-management-implementations)
+- [Datacenter Recource Management / Distributed Resource Schedulers - Kubernetes](https://www.linuxor.sk/linkz/technologies-datacenter-resource-management-kubernetes)
 
 ----------
 
@@ -77,7 +83,8 @@
 
 ## LINKz - SECURITY
 
-- [Security HW]()
+- [Security Research Resources](https://www.linuxor.sk/linkz/security-research-resources)
+- [Hardware Security Resources](https://www.linuxor.sk/linkz/security-hardware-resources)
 - [Kryptografické technológie a veci súvisiace](https://www.linuxor.sk/linkz/technologies-security-cryptography)
 
 ----------
