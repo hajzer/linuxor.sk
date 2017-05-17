@@ -12,6 +12,118 @@ Ranná káva je môj emailový informačný letáčik (news-letter) obsahujúci 
 # Ranná káva - 2017
 
 
+## Ranna kava - Napady vizionarov
+
+NEW Elon Musk's Boring Company exclusive concept  
+[https://www.youtube.com/watch?v=xNQeqlzPDGE](https://www.youtube.com/watch?v=xNQeqlzPDGE)
+
+Larry Page's Kitty Hawk Testing 'Flying Car' In Northern California | CNBC  
+[https://www.youtube.com/watch?v=Fe8eBWlha3Y](https://www.youtube.com/watch?v=Fe8eBWlha3Y)
+
+
+## Ranna kava - Vtaaakoviny
+
+cockatoo loves elvis  
+[https://www.youtube.com/watch?v=CEQuDyuQFKE](https://www.youtube.com/watch?v=CEQuDyuQFKE)
+
+Funny Parrots Annoying Cats Compilation || NEW HD  
+[https://www.youtube.com/watch?v=xaibRAJ-Hjo](https://www.youtube.com/watch?v=xaibRAJ-Hjo)
+
+
+## Ranna kava - Pracovne stastie
+
+Happy Monday Funny Video  
+[https://www.youtube.com/watch?v=mkC1VIyrvHw](https://www.youtube.com/watch?v=mkC1VIyrvHw)
+
+Bad day at work part 1 |Funny Videos Compilation    
+[https://www.youtube.com/watch?v=Kkooj2DD5jk](https://www.youtube.com/watch?v=Kkooj2DD5jk)
+
+
+## Ranna kava -  Majkl
+
+Michael Jackson - Bad (Virtuosic Piano Cover) - Bence Peter  
+[https://www.youtube.com/watch?v=dxn0jSb6C5w](https://www.youtube.com/watch?v=dxn0jSb6C5w)
+
+Michael Jackson - Black Or White - Peter Bence  
+[https://www.youtube.com/watch?v=t5ot-DO-18I](https://www.youtube.com/watch?v=t5ot-DO-18I)
+
+
+## Ranna kava - Slovenske tRepete
+
+Čo je veľa, to je málo!  
+[https://www.youtube.com/watch?v=L6SCrXZ_uTg](https://www.youtube.com/watch?v=L6SCrXZ_uTg)
+
+Suseda kradne orgovan  
+[https://www.youtube.com/watch?v=FFOon5wZ_YU](https://www.youtube.com/watch?v=FFOon5wZ_YU)
+
+
+## Ranna kava - Blender 2017
+
+BLENDER 2017 Award Winning Short Film OSCAR 3d Animation Movie 2017 - SADDEST LOVE STORY EVER  
+[https://www.youtube.com/watch?v=-v05m9Simmc](https://www.youtube.com/watch?v=-v05m9Simmc)
+
+**Award Winning** CGI VFX Short Film: "CIRCLE" - by Alexander Heringer  
+[https://www.youtube.com/watch?v=Y2vJbg9qWPA](https://www.youtube.com/watch?v=Y2vJbg9qWPA)
+
+
+## Ranna kava - Drsny svet
+
+Brazilian Police Hunting Criminals 🚓 🇧🇷 Police Chases Caught on Camera [TNT Channel]  
+[https://www.youtube.com/watch?v=R3CJAlncJ98](https://www.youtube.com/watch?v=R3CJAlncJ98)
+
+Trening odwagi brazylijskiej policji 1  
+[https://www.youtube.com/watch?v=c5DTRMJG9B8](https://www.youtube.com/watch?v=c5DTRMJG9B8)
+
+
+## Ranna kava - Jim
+
+Jim Carrey in "Star Trek II" - In Living Color  
+[https://www.youtube.com/watch?v=MkoeEL7weSE](https://www.youtube.com/watch?v=MkoeEL7weSE)
+
+Jim Carrey is Sylvester Stallone (Rocky VI) - In Living Color  
+[https://www.youtube.com/watch?v=XMyr3gtk4G0](https://www.youtube.com/watch?v=XMyr3gtk4G0)
+
+
+## Ranna kava - Drevena
+
+Duplicarver  
+[https://www.youtube.com/watch?v=OcU8rbGad7E](https://www.youtube.com/watch?v=OcU8rbGad7E)
+
+Alice in Wonderland wood carving  
+[https://www.youtube.com/watch?v=S8lfCzBtOB8](https://www.youtube.com/watch?v=S8lfCzBtOB8)
+
+**BONUS - FULL**  
+
+3d wood carved picture "Alice in Wonderland"  
+[https://www.youtube.com/watch?v=KYrwH-H2yjA](https://www.youtube.com/watch?v=KYrwH-H2yjA)
+
+
+## Ranna kava - VR Horror 2017
+
+Syren Full Trailer  
+[https://www.youtube.com/watch?v=t2kvYHy_0mo](https://www.youtube.com/watch?v=t2kvYHy_0mo)
+
+Stifled | Trailer  
+[https://www.youtube.com/watch?v=stLOQAkbcjQ](https://www.youtube.com/watch?v=stLOQAkbcjQ)
+
+RESIDENT EVIL 7 Launch Trailer (4K)  
+[https://www.youtube.com/watch?v=Y1NAvLPC6c8](https://www.youtube.com/watch?v=Y1NAvLPC6c8)
+
+
+## Ranna kava - Zbytocny ludia
+
+High-Speed Robots Part 1: Meet BettyBot in "Human Exclusion Zone" Warehouses-The Window-WIRED  
+[https://www.youtube.com/watch?v=8gy5tYVR-28](https://www.youtube.com/watch?v=8gy5tYVR-28)
+
+Amazon Warehouse Robots : Mind Blowing Video  
+[https://www.youtube.com/watch?v=cLVCGEmkJs0](https://www.youtube.com/watch?v=cLVCGEmkJs0)
+
+**BONUS** 
+
+Robo Recall - Announcement Trailer | Oculus Touch Shooter from Epic Games  
+[https://www.youtube.com/watch?v=U7dxzKa_s7U](https://www.youtube.com/watch?v=U7dxzKa_s7U)
+
+
 ## Ranna kava - Letiaca
 
 Luke Aikins No Parachute 25,000 Feet Airplane Jump Complete Video  
