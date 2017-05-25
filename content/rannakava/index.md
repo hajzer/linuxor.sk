@@ -11,6 +11,62 @@ Ranná káva je môj emailový informačný letáčik (news-letter) obsahujúci 
 
 # Ranná káva - 2017
 
+## Ranna kava - Slovenska
+
+Slovakia. Here I am  
+[https://www.youtube.com/watch?v=FJEUJs2knlM](https://www.youtube.com/watch?v=FJEUJs2knlM)
+
+BijouTerrier - Babka Natatrouská a Dedo Momuj (OFICIÁLNY VIDEOKLIP)  
+[https://www.youtube.com/watch?v=rQdPvlTR44w](https://www.youtube.com/watch?v=rQdPvlTR44w)
+
+
+## Ranna kava - Osamelost
+
+Multi- Award Winning CGI 3D Animated Short Film: "366 Days" - by Johannes Schiehsl  
+[https://www.youtube.com/watch?v=vkzDd3QS3cc](https://www.youtube.com/watch?v=vkzDd3QS3cc)
+
+
+## Ranna kava - Moderne muzea
+
+Museums Test New Technology, Interactive Exhibits  
+[https://www.youtube.com/watch?v=32pqI1dod8A](https://www.youtube.com/watch?v=32pqI1dod8A)
+
+Studio Play | The Cleveland Museum of Art  
+[https://www.youtube.com/watch?v=xh7KIRO4cHg](https://www.youtube.com/watch?v=xh7KIRO4cHg)
+
+The Complex - an interactive experience in mixed reality  
+[https://www.youtube.com/watch?v=TI6afEtEeus](https://www.youtube.com/watch?v=TI6afEtEeus)
+
+
+## Ranna kava - 
+
+Math Professor Fixes Projector Screen (April Fools Prank)  
+[https://www.youtube.com/watch?v=Z9NQatne0xg](https://www.youtube.com/watch?v=Z9NQatne0xg)
+
+Bodybuilding with One Arm and No Legs  
+[https://www.youtube.com/watch?v=MQNCcgMjkNo](https://www.youtube.com/watch?v=MQNCcgMjkNo)
+
+
+## Ranna kava - Alternativne hudobne nastroje 7
+
+Little Talks Guitar Cover by Lego Mindstorms EV3  
+[https://www.youtube.com/watch?v=cXgB3lIvPHI](https://www.youtube.com/watch?v=cXgB3lIvPHI)
+
+Music Construction Machine  
+[https://www.youtube.com/watch?v=OEy7A0p0v8g](https://www.youtube.com/watch?v=OEy7A0p0v8g)
+
+The Floppotron: Smells Like Nerd Spirit  
+[https://www.youtube.com/watch?v=GwuCQ3u2N_A](https://www.youtube.com/watch?v=GwuCQ3u2N_A)
+
+
+## Ranna kava - Zvukova
+
+SoftdB Sound Masking  
+[https://www.youtube.com/watch?v=-0W6b0up94s](https://www.youtube.com/watch?v=-0W6b0up94s)
+
+Virtual Barber Shop (Audio...use headphones, close ur eyes)  
+[https://www.youtube.com/watch?v=IUDTlvagjJA](https://www.youtube.com/watch?v=IUDTlvagjJA)
+
 
 ## Ranna kava - Napady vizionarov
 
