@@ -2,6 +2,18 @@
 
 ## Basic informations about datacenter resource management
 
+- [2017 - Cluster Schedulers (**)](https://medium.com/@cindysridharan/schedulers-kubernetes-and-nomad-b0f2e14a896)  
+  1. Introduction  
+  2. What even is a scheduler?  
+  3. Cluster schedulers in the wild  
+  4. The need for a scheduler  
+  5. Problems we actually had  
+  6. Why not Kubernetes?  
+  7. Why Nomad?  
+  8. Immediate Wins  
+  9. Pain Points  
+  10. Conclusion  
+
 - [2016 - Comparison of Container Schedulers (**)](https://medium.com/@ArmandGrillet/comparison-of-container-schedulers-c427f4f7421#.7vre7qtxm)  
 - [2016 - The evolution of cluster scheduler architectures (**)](http://www.firmament.io/blog/scheduler-architectures.html)  
 Zakladne info o architekturach + Porovnanie roznych technologii (Kubernetes, Swarm, YARN, Mesos, Nomad, Sparrow, Borg, ...)  
