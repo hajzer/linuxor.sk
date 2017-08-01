@@ -23,6 +23,11 @@ Security Analysis of the Computer Architecture *OR* What a software researcher c
 
 ## Hardware Security - Papers
 
+- [2017 - sandsifter - the x86 processor fuzzer](https://github.com/xoreaxeaxeax/sandsifter)  
+The sandsifter audits x86 processors for hidden instructions and hardware bugs, by systematically generating machine code to search through a processor's instruction set, and monitoring execution for anomalies. Sandsifter has uncovered secret processor instructions from every major vendor; ubiquitous software bugs in disassemblers, assemblers, and emulators; flaws in enterprise hypervisors; and both benign and security-critical hardware bugs in x86 chips.
+With the multitude of x86 processors in existence, the goal of the tool is to enable users to check their own systems for hidden instructions and bugs.
+  - [WhitePaper](https://github.com/xoreaxeaxeax/sandsifter/blob/master/references/domas_breaking_the_x86_isa_wp.pdf)
+  - [Presentation](https://github.com/xoreaxeaxeax/sandsifter/blob/master/references/domas_breaking_the_x86_isa.pdf)
 - [2017/02 - ASLR^CACHE OR ANC: A MMU SIDECHANNEL BREAKING ASLR FROM JAVASCRIPT](https://www.vusec.net/projects/anc/)  
 In this project, we show that the limitations of ASLR is fundamental to how modern processors manage memory and build an attack that can fully derandomize ASLR from JavaScript without relying on any software feature. "We hence recommend ASLR to no longer be trusted as a first line of defense against memory error attacks and for future defenses not to rely on it as a pivotal building block."
 - [2016 - A Survey of Microarchitectural Timing Attacks and Countermeasures on Contemporary Hardware](https://eprint.iacr.org/2016/613.pdf)
