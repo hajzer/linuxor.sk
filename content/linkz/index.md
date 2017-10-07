@@ -1,23 +1,24 @@
 ## LINKz - API
 
-- [Rôzne API pre cloud a virtualizáciu](https://www.linuxor.sk/linkz/api-cloud-virtualization)
-- [DJB (D.J.Bernstein) knižnice a odvodené knižnice](https://www.linuxor.sk/linkz/api-djb-libraries)
-- [Minimalistické knižnice](https://www.linuxor.sk/linkz/api-minimalistic-libraries)
-- [SSH knižnice](https://www.linuxor.sk/linkz/api-ssh-libraries)
+- [APIs for Cloud and Virtualization](https://www.linuxor.sk/linkz/api-cloud-virtualization)
+- [DJB (D.J.Bernstein) libraries and derivative libraries](https://www.linuxor.sk/linkz/api-djb-libraries)
+- [Minimalistic libraries](https://www.linuxor.sk/linkz/api-minimalistic-libraries)
+- [SSH libraries](https://www.linuxor.sk/linkz/api-ssh-libraries)
 
 ----------
 
 
-## LINKz - AUTOMATIZATION
+## LINKz - MANAGEMENT and AUTOMATIZATION
 
-- [Automatizačné technológie]() 
+- [Tools for Simulation of services in the Automation and Development](https://www.linuxor.sk/linkz/technologies-service-simulation) 
+- [OOB (Out Of Band) Management technologies](https://www.linuxor.sk/linkz/technologies-management-oob)
 
 ----------
 
 
 ## LINKz - CONTAINERS
 
-- [Infraštruktúrne systémy/komponenty v jazyku GO](https://www.linuxor.sk/linkz/technologies-infrastructure-components-in-go)
+- [Infrastructure systems/components in GO language](https://www.linuxor.sk/linkz/technologies-infrastructure-components-in-go)
 - [Container technologies - Runtimes](https://www.linuxor.sk/linkz/technologies-container-runtime)
 - [Container technologies - Platforms](https://www.linuxor.sk/linkz/technologies-container-platforms)
 - [Container technologies - Minimal OS](https://www.linuxor.sk/linkz/technologies-container-os)
@@ -30,24 +31,24 @@
 
 ## LINKz - DEVELOP
 
-- [Zbierky rôznych algoritmov](https://www.linuxor.sk/linkz/develop-algorithms)
-- [Best practice pre vývoj systémov](https://www.linuxor.sk/linkz/develop-best-practice)
-- [Bezpečnosť pri vývoji systémov](https://www.linuxor.sk/linkz/develop-security)
-- [Atomicita a transakčnosť](https://www.linuxor.sk/linkz/develop-transactions-atomicity)
-- [Užívateľské rozhranie](https://www.linuxor.sk/linkz/develop-user-experience)
-- [Javascript, HTML, CSS technológie pre vývoj cross platformových aplikácií](https://www.linuxor.sk/linkz/develop-web-cross-platform-applications)
-- [Dokumentácie k HTML5 a CSS](https://www.linuxor.sk/linkz/develop-web-html-css)
-- [Odkazy na zdroje o Open Source licenciách](https://www.linuxor.sk/linkz/develop-open-source-licenses)
-- [Odkazy na zdroje o vývojovej platforme Microsoft dotNet Core](https://www.linuxor.sk/linkz/develop-dotnet-core)
+- [Collections of different algorithms](https://www.linuxor.sk/linkz/develop-algorithms)
+- [Best practice in system development](https://www.linuxor.sk/linkz/develop-best-practice)
+- [Security in system development](https://www.linuxor.sk/linkz/develop-security)
+- [Atomicity and transaction](https://www.linuxor.sk/linkz/develop-transactions-atomicity)
+- [User interface](https://www.linuxor.sk/linkz/develop-user-experience)
+- [Javascript, HTML, CSS technologies for cross-platform application development](https://www.linuxor.sk/linkz/develop-web-cross-platform-applications)
+- [HTML5 and CSS documentation](https://www.linuxor.sk/linkz/develop-web-html-css)
+- [Information about Open source licenses](https://www.linuxor.sk/linkz/develop-open-source-licenses)
+- [Informations and resources about Microsoft dotNet Core development platform](https://www.linuxor.sk/linkz/develop-dotnet-core)
 
 ----------
 
 
 ## LINKz - DISTRIBUTED SYSTEMS
 
-- [Základy distribuovaných systémov](https://www.linuxor.sk/linkz/technologies-distributed-systems)
+- [Distributed systems basics](https://www.linuxor.sk/linkz/technologies-distributed-systems)
 - [Distributed systems frameworks](https://www.linuxor.sk/linkz/technologies-distributed-systems-frameworks)
-- [Vývoj distribuovaných systémov v jazyku GO](https://www.linuxor.sk/linkz/technologies-distributed-systems-develop-go)
+- [Development of Distributed systems in GO language](https://www.linuxor.sk/linkz/technologies-distributed-systems-develop-go)
 - [Datacenter Recource Management / Distributed Resource Schedulers](https://www.linuxor.sk/linkz/technologies-datacenter-resource-management)
 - [Datacenter Recource Management / Distributed Resource Schedulers - Implementations](https://www.linuxor.sk/linkz/technologies-datacenter-resource-management-implementations)
 - [Datacenter Recource Management / Distributed Resource Schedulers - Kubernetes](https://www.linuxor.sk/linkz/technologies-datacenter-resource-management-kubernetes)
@@ -65,11 +66,11 @@
 
 ### Kernel
 
-- [Menné priestory (Linux namespaces)]()
-- [Riadiace skupiny (Linux cgroups)]()
+- [Linux namespaces]()
+- [Linux cgroups]()
 
 ### Security
-- [Sandbox technológie pre OS Linux](https://www.linuxor.sk/linkz/technologies-linux-sandbox)
+- [Sandbox technologies for OS Linux](https://www.linuxor.sk/linkz/technologies-linux-sandbox)
 
 ----------
 
@@ -85,29 +86,29 @@
 
 - [Security Research Resources](https://www.linuxor.sk/linkz/security-research-resources)
 - [Hardware Security Resources](https://www.linuxor.sk/linkz/security-hardware-resources)
-- [Kryptografické technológie a veci súvisiace](https://www.linuxor.sk/linkz/technologies-security-cryptography)
+- [Cryptographic technologies and related things](https://www.linuxor.sk/linkz/technologies-security-cryptography)
 
 ----------
 
 
 ## LINKz - STORAGE
 
-- [Object Storage technológie](https://www.linuxor.sk/linkz/technologies-object-storage)
+- [Object Storage technologies](https://www.linuxor.sk/linkz/technologies-object-storage)
 
 ----------
 
 
 ## LINKz - VIRTUALIZATION
 
-- [Virtualizácia - sieť](https://www.linuxor.sk/linkz/technologies-cloud-virtualization-network)  
-- [Virtualizácia - unikernel](https://www.linuxor.sk/linkz/technologies-cloud-virtualization-unikernel)
-- [Virtualizácia - emerging hypervizors](https://www.linuxor.sk/linkz/technologies-cloud-virtualization-emerging-hypervisors)
+- [Virtualization - network](https://www.linuxor.sk/linkz/technologies-cloud-virtualization-network)  
+- [Virtualization - unikernel](https://www.linuxor.sk/linkz/technologies-cloud-virtualization-unikernel)
+- [Virtualization - emerging hypervizors](https://www.linuxor.sk/linkz/technologies-cloud-virtualization-emerging-hypervisors)
 
 ----------
 
 
 ## LINKz - XXX
 
-- [Kompresné technológie](https://www.linuxor.sk/linkz/technologies-compression)
+- [Compress technologies](https://www.linuxor.sk/linkz/technologies-compression)
 
 ----------

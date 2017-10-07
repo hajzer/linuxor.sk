@@ -1,4 +1,4 @@
-### SIMULOVANIE SLUZIEB PRI AUTOMATIZOVANI A VYVOJI
+## Tools for Simulation of services in the Automation and Development
 
 - [MockSSH](https://github.com/ncouture/MockSSH)
 <br>
