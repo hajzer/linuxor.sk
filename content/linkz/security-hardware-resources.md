@@ -41,6 +41,47 @@ In this project, we show that the limitations of ASLR is fundamental to how mode
 - [2005 - D.J.Bernstein - Cache-timing attacks on AES](http://cr.yp.to/antiforgery/cachetiming-20050414.pdf)
 
 
+## Intel ME
+
+
+### Intel ME (Management Engine) documentation - Basics
+
+- [Intel Active Management Technology](https://en.wikipedia.org/wiki/Intel_Active_Management_Technology)
+- [2017 - EFF - Intel's Management Engine is a security hazard, and users need a way to disable it](https://www.eff.org/deeplinks/2017/05/intels-management-engine-security-hazard-and-users-need-way-disable-it)
+- [2017 - IS INTEL’S MANAGEMENT ENGINE BROKEN?](https://hackaday.com/2017/05/02/is-intels-management-engine-broken/)
+
+
+### Intel ME (Management Engine) documentation - Low Level
+
+- [2017 - Disabling Intel ME 11 via undocumented mode](http://blog.ptsecurity.com/2017/08/disabling-intel-me.html)
+- [2017 - Intel ME - The Way of the Static Analysis](https://www.troopers.de/downloads/troopers17/TR17_ME11_Static.pdf)
+- [2016 - Positive technologies - How to Become the sole Owner of Your PC](https://github.com/ptresearch/me-disablement/blob/master/How%20to%20become%20the%20sole%20owner%20of%20your%20PC.pdf)  
+  - [https://github.com/ptresearch/me-disablement](https://github.com/ptresearch/me-disablement)
+- [2014 - Igor Skochinsky - Intel ME - Two Years Later *****](https://github.com/skochinsky/papers/blob/master/2014-10%20%5BBreakpoint%5D%20Intel%20ME%20-%20Two%20Years%20Later.pdf)
+- [2012 - Igor Skochinsky - Rootkit in your laptop - Hidden code in your chipset and how to discover what exactly it does *****](https://github.com/skochinsky/papers/blob/master/2012-10%20%5BBreakpoint%5D%20Rootkit%20in%20your%20laptop.pdf)
+- [Igor Skochinsky](https://github.com/skochinsky)  
+  - [Papers](https://github.com/skochinsky/papers)
+- [2014 - ME blob format](http://me.bios.io/ME_blob_format)
+
+
+### Intel ME (Management Engine) tools
+
+- [ME Analyzer - Intel Engine Firmware Analysis Tool (License: GPL3)](https://github.com/platomav/MEAnalyzer)  
+ME Analyzer is a tool which can show various details about Intel Engine Firmware (Management Engine, Trusted Execution Engine, Service Platform Services) images. It can be used to identify whether the firmware is updated, healthy, what Release, Type, SKU it is etc.
+
+- [MC Extractor - Intel, AMD, VIA & Freescale Microcode Extraction Tool (License: GPL3)](https://github.com/platomav/MCExtractor)  
+MC Extractor is a tool which can extract Intel, AMD, VIA and Freescale processor microcode binaries. It can be used to identify what microcodes your BIOS/SPI holds, verify their integrity, whether they are updated, show details about them, check if they exist at the microcode repository etc.
+
+- [me_cleaner (License: GPL-3)](https://github.com/corna/me_cleaner)  
+Tool for partial deblobbing of Intel ME/TXE firmware images  
+[How it works](https://github.com/corna/me_cleaner/wiki/How-does-it-work%3F)  
+[How to apply me_cleaner](https://github.com/corna/me_cleaner/wiki/How-to-apply-me_cleaner)  
+[me_cleaner status](https://github.com/corna/me_cleaner/wiki/me_cleaner-status)  
+
+- [me-tools (License: )](https://github.com/skochinsky/me-tools)  
+Tools for working with Intel ME
+
+
 ## Hardware Security - Presentations
 
 - [2015 - Attacking Hypervisors via Firmware and Hardware](http://www.intelsecurity.com/advanced-threat-research/content/AttackingHypervisorsViaFirmware_bhusa15_dc23.pdf)
