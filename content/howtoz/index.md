@@ -29,14 +29,15 @@
 ## HOWTOz - DB
 
 
+
 ### 2016 - Simulácia Oracle 11g2 RAC (+ASM) + Symantec Backup Exec 2015
 
-- [2016 - Oracle RAC 11g2 - network info]()
-- [2016 - Oracle RAC 11g2 - prepare]()
-- [2016 - Oracle RAC 11g2 - install GRID]()
-- [2016 - Oracle RAC 11g2 - install RAC]()
-- [2016 - Oracle RAC 11g2 - Symantec Backup Exec]()
-- [2016 - Oracle RAC 11g2 - Knot DNS server]()
+- [2016 - Oracle RAC 11g2 - network info](http://www.linuxor.sk/howtoz/2016-00-oracle-11g2-network)
+- [2016 - Oracle RAC 11g2 - prepare](http://www.linuxor.sk/howtoz/2016-01-oracle-11g2-prepare)
+- [2016 - Oracle RAC 11g2 - install GRID](http://www.linuxor.sk/howtoz/2016-02-oracle-11g2-install-grid)
+- [2016 - Oracle RAC 11g2 - install RAC](http://www.linuxor.sk/howtoz/2016-03-oracle-11g2-install-rac)
+- [2016 - Oracle RAC 11g2 - Symantec Backup Exec](http://www.linuxor.sk/howtoz/2016-04-oracle-11g2-install-veritas)
+- [2016 - Oracle RAC 11g2 - Knot DNS server](http://www.linuxor.sk/howtoz/2016-05-oracle-11g2-install-dns-knot)
 
 ----------
 
