@@ -53,7 +53,8 @@ In this project, we show that the limitations of ASLR is fundamental to how mode
 
 ### Intel ME (Management Engine) documentation - Low Level
 
-- [2017 - Disabling Intel ME 11 via undocumented mode](http://blog.ptsecurity.com/2017/08/disabling-intel-me.html)
+- [2017 - Sakaki's EFI Install Guide/Disabling the Intel Management Engine *****](https://wiki.gentoo.org/wiki/Sakaki%27s_EFI_Install_Guide/Disabling_the_Intel_Management_Engine)
+- [2017 - Disabling Intel ME 11 via undocumented mode *****](http://blog.ptsecurity.com/2017/08/disabling-intel-me.html)
 - [2017 - Intel ME - The Way of the Static Analysis](https://www.troopers.de/downloads/troopers17/TR17_ME11_Static.pdf)
 - [2016 - Positive technologies - How to Become the sole Owner of Your PC](https://github.com/ptresearch/me-disablement/blob/master/How%20to%20become%20the%20sole%20owner%20of%20your%20PC.pdf)  
   - [https://github.com/ptresearch/me-disablement](https://github.com/ptresearch/me-disablement)
