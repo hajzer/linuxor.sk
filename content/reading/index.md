@@ -6,6 +6,11 @@
 
 ## 2017
 
+
+- [**CZ** - Koncovka - Vzestup a pád šachového velmistra Bobbyho Fischera od nadaného dítěte na pokraj šílenství (Frank Brady)](http://www.martinus.sk/?uItem=185266)  
+[**EN** - Endgame - Bobby Fischer's Remarkable Rise and Fall - from America's Brightest Prodigy to the Edge of Madness (Frank Brady)](https://www.amazon.com/Endgame-Fischers-Remarkable-Americas-Brightest/dp/0307463915)
+
+
 - [**CZ** - Umění války v byznysu - Využití válečných strategií (Sun-c' a Vít Vojta )](http://www.martinus.sk/?uItem=191031)  
 
 
@@ -46,8 +51,21 @@
 
 ## 2016
 
+
+- [**CZ** - To nemyslíte vážně, pane Feynmane! (Ralph Leighton, Richard P. Feynman)](http://www.martinus.sk/?uItem=164869)  
+[**EN** - Surely You're Joking, Mr. Feynman! - Adventures of a Curious Character (Ralph Leighton, Richard P. Feynman)](https://www.amazon.com/Surely-Feynman-Adventures-Curious-Character/dp/0393316041)
+
+
 - [**CZ** - Mysli ako freak - Umenie vidieť veci inak ako vyzerajú (Steven D. Levitt a Stephen J. Dubner)](http://www.martinus.sk/?uItem=176483)    
 [**EN** - Think Like a Freak - The Authors of Freakonomics Offer to Retrain Your Brain (Steven D. Levitt a Stephen J. Dubner)](http://freakonomics.com/books/#thinklikeafreak)
+
+
+- [**CZ** - Leadership - Učte se od velkých vůdců (John Adair)](http://www.martinus.sk/?uItem=32672)  
+[**EN** - Inspiring Leadership - Learning from Great Leaders (John Adair)](https://www.amazon.com/Inspiring-Leadership-Learning-Great-Leaders/dp/1854182072)
+
+
+- [**CZ** - Ne šéf, ale lídr - Jak ostatní vést po cestě k úspěchu (John Adai, Peter Reed)](http://www.martinus.sk/?uItem=67507)  
+[**EN** - Not Bosses but Leaders - How to Lead the Way to Success (John Adair)](https://www.amazon.com/Not-Bosses-but-Leaders-Leadership/dp/0749454814)
 
 
 - [**SK** - SuperFreakonomics - Globálne ochladzovanie, vlastenecké prostitútky a životné poistky pre samovražedných atentátnikov (Steven D. Levitt a Stephen J. Dubner)](http://www.martinus.sk/?uItem=115220)    
@@ -60,4 +78,11 @@
 
 - [**CZ** - Start-Up Nation - Příběh izraelského hospodářského zázraku (Dan Senor, Saul Singer)](http://www.startupnation.cz/kniha)  
 [**EN** - Start-up Nation - The Story of Israel’s Economic Miracle (Dan Senor, Saul Singer)](http://startupnationbook.com/)
+
+
+- [**EN** - Schneier on Security (Bruce Schneier)](https://www.schneier.com/books/schneier_on_security/)
+
+
+- [**CZ** - Viem, čo si myslíš - Tajomstvo čítania myšlienok (Thorsten Havener)](http://www.martinus.sk/?uItem=93294)  
+[**DE** - Ich weiß, was du denkst - Das Geheimnis, Gedanken zu lesen (Thorsten Havener)](https://www.amazon.com/Ich-wei%C3%9F-was-denkst-Geheimnis/dp/B00T5L44BQ/)
 
