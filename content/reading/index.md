@@ -7,6 +7,10 @@
 ## 2017
 
 
+- [**CZ** - Mimo řadu - Anatomie úspěchu (Malcolm Gladwell)](https://www.martinus.sk/?uItem=200950)  
+[**EN** - Outliers - The story of success (Malcolm Gladwell)](http://gladwell.com/outliers/)
+
+
 - [**CZ** - Koncovka - Vzestup a pád šachového velmistra Bobbyho Fischera od nadaného dítěte na pokraj šílenství (Frank Brady)](http://www.martinus.sk/?uItem=185266)  
 [**EN** - Endgame - Bobby Fischer's Remarkable Rise and Fall - from America's Brightest Prodigy to the Edge of Madness (Frank Brady)](https://www.amazon.com/Endgame-Fischers-Remarkable-Americas-Brightest/dp/0307463915)
 
