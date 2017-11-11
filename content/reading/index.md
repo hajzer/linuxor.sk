@@ -7,6 +7,10 @@
 ## 2017
 
 
+- [**CZ** - Sedmý smysl - Návod na přežití v době sítí (Joshua Cooper Ramo)](https://www.martinus.sk/?uItem=282393)  
+[**EN** - The Seventh Sense - Power, fortune and survival in the age of networks (Joshua Cooper Ramo)](http://joshuacooperramo.com/)
+
+
 - [**CZ** - Mimo řadu - Anatomie úspěchu (Malcolm Gladwell)](https://www.martinus.sk/?uItem=200950)  
 [**EN** - Outliers - The story of success (Malcolm Gladwell)](http://gladwell.com/outliers/)
 
