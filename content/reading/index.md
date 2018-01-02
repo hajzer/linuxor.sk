@@ -7,12 +7,23 @@
 ## 2017
 
 
+- [**SK** - Dávid a Goliáš - Podceňovaní, čudáci a umenie boja s obrami (Malcolm Gladwell)](https://www.martinus.sk/?uItem=171796)  
+[**EN** - David and Goliath - Underdogs, Misfits, and the Art of Battling Giants (Malcolm Gladwell)](https://www.amazon.com/David-Goliath-Underdogs-Misfits-Battling/dp/0316204374/)
+
+
+- [**SK** - Príbehy Arthura Gordona Pyma (Edgar Allan Poe )](https://www.martinus.sk/?uItem=273679)  
+[**EN** - The Narrative of Arthur Gordon Pym of Nantucket (Edgar Allan Poe )](https://www.amazon.com/Narrative-Arthur-Gordon-Nantucket-Editions/dp/0486440931)
+
+
+- [**CZ** - Agilní metody řízení projektů (Zuzana Šochová, Eduard Kunce)](https://www.martinus.sk/?uItem=175377)  
+
+
 - [**CZ** - Sedmý smysl - Návod na přežití v době sítí (Joshua Cooper Ramo)](https://www.martinus.sk/?uItem=282393)  
 [**EN** - The Seventh Sense - Power, fortune and survival in the age of networks (Joshua Cooper Ramo)](http://joshuacooperramo.com/)
 
 
 - [**CZ** - Mimo řadu - Anatomie úspěchu (Malcolm Gladwell)](https://www.martinus.sk/?uItem=200950)  
-[**EN** - Outliers - The story of success (Malcolm Gladwell)](http://gladwell.com/outliers/)
+[**EN** - Outliers - The story of success (Malcolm Gladwell)](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930/)
 
 
 - [**CZ** - Koncovka - Vzestup a pád šachového velmistra Bobbyho Fischera od nadaného dítěte na pokraj šílenství (Frank Brady)](http://www.martinus.sk/?uItem=185266)  
@@ -43,11 +54,11 @@
 
 
 - [**SK** - Záblesk - Ako myslieť bez rozmýšľania (Malcolm Gladwell)](http://www.martinus.sk/?uItem=62345)    
-[**EN**- Blink - The Power of Thinking Without Thinking (Malcolm Gladwell)](http://gladwell.com/blink/)
+[**EN** - Blink - The Power of Thinking Without Thinking (Malcolm Gladwell)](https://www.amazon.com/Blink-Power-Thinking-Without/dp/0316010669/) 
 
 
 - [**CZ** - Co viděl pes a jiná dobrodružství (Malcolm Gladwell)](http://www.martinus.sk/?uItem=190650)    
-[**EN** - What the Dog Saw - And Other Adventures (Malcolm Gladwell)](http://gladwell.com/what-the-dog-saw/)
+[**EN** - What the Dog Saw - And Other Adventures (Malcolm Gladwell)](https://www.amazon.com/What-Dog-Saw-Other-Adventures/dp/0316076201/)
 
 
 - [**SK** - Freakopedia - Kedy vykradnúť banku... a ďalších 131 dobre mienených rád (Steven D. Levitt a Stephen J. Dubner)](http://www.martinus.sk/?uItem=222961)  
