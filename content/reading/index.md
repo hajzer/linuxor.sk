@@ -4,6 +4,23 @@
 **EN** - This site summarizes non technical books which I read in the last period.
 
 
+## 2019 
+
+
+- [**CZ** - O smyslu bytí (Richard P. Feynman)](https://www.martinus.sk/?uItem=5943)  
+[**EN** - The Meaning of It All: Thoughts of a Citizen-Scientist (Richard P. Feynman)](https://www.amazon.com/Meaning-All-Thoughts-Citizen-Scientist/dp/0465023940/)
+
+
+- [**CZ** - Snad ti nedělají starosti cizí názory (Richard P. Feynman, Ralph Leighton)](https://www.martinus.sk/?uItem=13929)  
+[**EN** - What Do You Care What Other People Think?": Further Adventures of a Curious Character (Richard P. Feynman, Ralph Leighton)](https://www.amazon.com/What-Care-Other-People-Think/dp/0393355640/)
+
+
+## 2018
+
+
+SK - Žiadne čitanie netechnických kníh kvôli prácam na novom dome.  
+EN - No reading of non technical books due to work on new house.
+
 ## 2017
 
 
