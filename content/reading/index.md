@@ -7,6 +7,10 @@
 ## 2019 
 
 
+- [**SK** - Ako pracujú maverici - Prečo v biznise víťazia najoriginálnejšie myšlienky (William C. Taylor, Polly LeBarre)](https://www.martinus.sk/?uItem=62180)  
+[**EN** - Mavericks at Work - Why the Most Original Minds in Business Win (William C. Taylor, Polly LeBarre)](https://www.amazon.com/Mavericks-Work-Original-Minds-Business/dp/0060779624/)
+
+
 - [**CZ** - O smyslu bytí (Richard P. Feynman)](https://www.martinus.sk/?uItem=5943)  
 [**EN** - The Meaning of It All: Thoughts of a Citizen-Scientist (Richard P. Feynman)](https://www.amazon.com/Meaning-All-Thoughts-Citizen-Scientist/dp/0465023940/)
 
