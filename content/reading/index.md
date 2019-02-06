@@ -7,6 +7,10 @@
 ## 2019 
 
 
+- [**CZ** - Einstein a Einstein - Geniální žena skrytá ve stínu Alberta Einsteina](https://www.martinus.sk/?uItem=261526)  
+[**EN** - The Other Einstein - Meet the Brilliant Physicist Hidden in Albert Einstein's Shadow](https://www.amazon.com/Other-Einstein-Novel-Marie-Benedict/dp/1492637254/)
+
+
 - [**SK** - Ako pracujú maverici - Prečo v biznise víťazia najoriginálnejšie myšlienky (William C. Taylor, Polly LeBarre)](https://www.martinus.sk/?uItem=62180)  
 [**EN** - Mavericks at Work - Why the Most Original Minds in Business Win (William C. Taylor, Polly LeBarre)](https://www.amazon.com/Mavericks-Work-Original-Minds-Business/dp/0060779624/)
 
