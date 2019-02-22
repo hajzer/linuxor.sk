@@ -6,9 +6,16 @@
 
 ## 2019 
 
+- [**CZ** - Jak vybudovat trvale úspěšnou firmu - Úspěšné návyky vizionářských společností (Jim Collins, Jerry I. Porras)](https://www.martinus.sk/?uItem=239905)  
+[**EN** - Built to Last - Successful Habits of Visionary Companies (Jim Collins, Jerry I. Porras)](https://www.amazon.com/Built-Last-Successful-Visionary-Companies/dp/0060566108/)
 
-- [**CZ** - Einstein a Einstein - Geniální žena skrytá ve stínu Alberta Einsteina](https://www.martinus.sk/?uItem=261526)  
-[**EN** - The Other Einstein - Meet the Brilliant Physicist Hidden in Albert Einstein's Shadow](https://www.amazon.com/Other-Einstein-Novel-Marie-Benedict/dp/1492637254/)
+
+- [**SK** - Z dobrého skvelé (Good to Great) - Prečo niektoré spoločnosti urobia veľký skok vpred... a iné nie (Jim Collins)](https://www.martinus.sk/?uItem=25529&gclid=EAIaIQobChMIkOvHrJTQ4AIVGqmaCh2akgz1EAAYASAAEgIiLvD_BwE)  
+[**EN** - Good to Great - Why Some Companies Make the Leap and Others Don't (Jim Collins)](https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996/)
+
+
+- [**CZ** - Einstein a Einstein - Geniální žena skrytá ve stínu Alberta Einsteina (Marie Benedict)](https://www.martinus.sk/?uItem=261526)  
+[**EN** - The Other Einstein - Meet the Brilliant Physicist Hidden in Albert Einstein's Shadow (Marie Benedict)](https://www.amazon.com/Other-Einstein-Novel-Marie-Benedict/dp/1492637254/)
 
 
 - [**SK** - Ako pracujú maverici - Prečo v biznise víťazia najoriginálnejšie myšlienky (William C. Taylor, Polly LeBarre)](https://www.martinus.sk/?uItem=62180)  
