@@ -10,7 +10,7 @@ Robme veci spolu, pomáhajme si, podporujme sa a nikoho nenechajme padnúť. Ak 
 Počúvať, diskutovať, premýšľať, rozhodovať, učiť sa a rásť spoločne. Viac hláv, viac rozumu, lepšie rozhodnutia a riešenia.
 
 **4. Buďme jeden superARGUMENT**  
-Ak našími "zbraňami" budú nepriestrelné argumenty, dokonalé poznanie "oponenta" a jeho motívácie, tak zvíťazíme bez boja (a bez ztrát), ale zároveň sa nemožeme boja (konštruktívnej technickej a vecnej argumentácie) báť.
+Ak našími "zbraňami" budú nepriestrelné argumenty, dokonalé poznanie "oponenta" a jeho motívácie, tak zvíťazíme bez boja (a bez ztrát), ale zároveň sa nemožeme boja (konštruktívnej technickej a vecnej argumentácie) a zmeny báť.
 
 **5. Buďme jeden superPRÍKLAD**  
 Naším motivačným palivom by mal byť spoločný úspech ale aj úspech jednotlivca a kvalitatívny rast (osobnostný aj technický). Nebojme sa a buďme prvý kto sa pustí do neprebádaných technologických výziev a staňme sa príkladom a inšpiráciou pre ostatných.

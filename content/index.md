@@ -7,3 +7,5 @@ Vitajte v mojom webovom zápisníku. Som fanúšikom open source technológií a
 Príjemné listovanie praje Ladislav Hajzer alias LALA.
 
 ;-)
+
+<center>![lala](https://www.linuxor.sk/content/lala.jpg)</center>
