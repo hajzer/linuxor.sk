@@ -1,9 +1,13 @@
 RewriteEngine on
 
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^([^/]+)$ index.php?cat=$1 [L]
+RewriteCond %{SERVER_PORT} !=443 [OR]
+RewriteCond %{HTTP_HOST} !^www\.
+RewriteRule ^(.*)$ https://www.linuxor.sk/$1 [R=301,L]
 
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^([^/]+)/([^/]+)$ index.php?cat=$1&doc=$2 [L]
+RewriteRule ^([^/]+)$ https://%{HTTP_HOST}/index.php?cat=$1 [L]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([^/]+)/([^/]+)$ https://%{HTTP_HOST}/index.php?cat=$1&doc=$2 [L]
