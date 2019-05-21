@@ -6,6 +6,31 @@
 
 ## 2019 
 
+
+- [**SK** - Príbeh štúdia Pixar - Moje nepravdepodobné putovanie so Stevom Jobsom pri vytváraní histórie zábavného priemyslu (Lawrence Levy)](https://www.martinus.sk/?uItem=269771)  
+[**EN** - To Pixar and Beyond - My Unlikely Journey with Steve Jobs to Make Entertainment History (Lawrence Levy)](https://www.amazon.com/Pixar-Beyond-Unlikely-Journey-Entertainment/dp/0544734149)
+
+
+- [**CZ** - Kód lídrov - Päť pravidiel úspešného riadenia (Dave Ulrich, Norm Smallwood, Kate Sweetman)](https://www.martinus.sk/?uItem=85929)  
+[**EN** - Leadership Code - Five Rules to Lead By (Dave Ulrich, Norm Smallwood, Kate Sweetman)](https://www.amazon.com/Leadership-Code-Five-Rules-Lead/dp/1422119017)
+
+
+- [**SK** - Firmy, ktoré sa rozhodli byť skvelé - Prečo niektoré spoločnosti v časoch neistoty a chaosu prosperujú... (Jim Collins, Morten T. Hansen)](https://www.martinus.sk/?uItem=178145)  
+[**EN** - Great by Choice - Uncertainty, Chaos, and Luck - Why Some Thrive Despite Them All (Jim Collins, Morten T. Hansen)](https://www.amazon.com/Great-Choice-Uncertainty-Luck-Why-Despite/dp/0062120999)
+
+
+- [**CZ** - Radost z poznání (Richard Phillips Feynman)](https://www.martinus.sk/?uItem=15499)  
+[**EN** - The Pleasure of Finding Things Out - The Best Short Works of Richard P. Feynman (Richard Phillips Feynman)](https://www.amazon.com/Pleasure-Finding-Things-Out-Richard/dp/0465023959)
+
+
+- [**SK** - 12 pravidiel pre život - Liek na chaos (Jordan B. Peterson)](https://www.martinus.sk/?uItem=308192)  
+[**EN** - 12 Rules for Life - An Antidote to Chaos (Jordan B. Peterso)](https://www.amazon.com/12-Rules-Life-Antidote-Chaos/dp/0345816021)
+
+
+- [**SK** - 5 úrovní líderstva - Overené kroky ako maximalizovať váš potenciál (John C. Maxwell)](https://www.martinus.sk/?uItem=217910)  
+[**EN** - The 5 Levels of Leadership - Proven Steps to Maximize Your Potential (John C. Maxwell)](https://www.amazon.com/Levels-Leadership-Proven-Maximize-Potential/dp/1599953633)
+
+
 - [**CZ** - Jak vybudovat trvale úspěšnou firmu - Úspěšné návyky vizionářských společností (Jim Collins, Jerry I. Porras)](https://www.martinus.sk/?uItem=239905)  
 [**EN** - Built to Last - Successful Habits of Visionary Companies (Jim Collins, Jerry I. Porras)](https://www.amazon.com/Built-Last-Successful-Visionary-Companies/dp/0060566108/)
 
