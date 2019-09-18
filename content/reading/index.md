@@ -7,6 +7,37 @@
 ## 2019 
 
 
+- [**SK** - Myšlienky (Friedrich Nietzsche)](https://www.martinus.sk/?uItem=313157)  
+
+
+- [**SK** - Moc faktov - Desať dôvodov, prečo máme o svete mylné predstavy – a prečo sme na tom lepšie, ako si myslíme (Hans Rosling, Ola Rosling, Anna Rosling Rönnlund)](https://www.martinus.sk/?uItem=462251)  
+[**EN** - Factfulness - Ten Reasons We're Wrong About the World―and Why Things Are Better Than You Think (Hans Rosling, Ola Rosling, Anna Rosling Rönnlund)](https://www.amazon.com/Factfulness-Reasons-World-Things-Better/dp/1250107814)
+
+
+- [**CZ** - Hra se skleněnými perlami (Hermann Hesse)](https://www.martinus.sk/?uItem=137591)  
+[**EN** - The Glass Bead Game - (Magister Ludi) A Novel (Hermann Hesse)](https://www.amazon.com/Glass-Bead-Game-Magister-Novel/dp/0312278497/)
+
+
+- [**CZ** - Antifragilita - Jak těžit z nahodilosti, neurčitosti a chaosu (Nassim Nicholas Taleb)](https://www.martinus.sk/?uItem=150254)  
+[**EN** - Antifragile - Things That Gain from Disorder (Incerto) (Nassim Nicholas Taleb)](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680/)
+
+
+- [**SK** - Nepristúp na kompromisy - Ako vyjednávať, aby ste férovým spôsobom, ale bez zbytočných obetí, dosiahli, čo chcete (Chris Voss, Tahl Raz)](https://www.martinus.sk/?uItem=237449)  
+[**EN** - Never Split the Difference - Negotiating As If Your Life Depended On It (Chris Voss, Tahl Raz)](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/B07VDCS13R/)
+
+
+- [**SK** - Trendológia - Ako rozpoznať a predpovedať budúce trendy v správaní zákazníkov (William Higham)](https://www.martinus.sk/?uItem=99683)  
+[**EN** - The Next Big Thing: Spotting and Forecasting Consumer Trends for Profit (William Higham)](https://www.amazon.com/Next-Big-Thing-Spotting-Forecasting/dp/0749454504)
+
+
+- [**SK** - Homo Deus - Stručná história zajtrajška (Yuval Noah Harari)](https://www.martinus.sk/?uItem=304329)  
+[**EN** - Homo Deus - A Brief History of Tomorrow (Yuval Noah Harari)](https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/B01MYZ4OUW/)
+
+
+- [**SK** - Sapiens - Stručná história ľudstva (Yuval Noah Harari)](https://www.martinus.sk/?uItem=297369)  
+[**EN** - Sapiens - A Brief History of Humankind (Yuval Noah Harari)](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095)
+
+
 - [**SK** - Príbeh štúdia Pixar - Moje nepravdepodobné putovanie so Stevom Jobsom pri vytváraní histórie zábavného priemyslu (Lawrence Levy)](https://www.martinus.sk/?uItem=269771)  
 [**EN** - To Pixar and Beyond - My Unlikely Journey with Steve Jobs to Make Entertainment History (Lawrence Levy)](https://www.amazon.com/Pixar-Beyond-Unlikely-Journey-Entertainment/dp/0544734149)
 
