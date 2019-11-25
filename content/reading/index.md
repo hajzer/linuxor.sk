@@ -6,19 +6,19 @@
 
 ## 2019 
 
-- [**CZ** - 21 lekcí pro 21. století (Yuval Noah Harari)](https://www.martinus.sk/?uItem=538189) 
+- [**CZ** - 21 lekcí pro 21. století (Yuval Noah Harari)](https://www.martinus.sk/?uItem=538189)  
 [**EN** - 21 Lessons for the 21st Century (Yuval Noah Harari)](https://www.amazon.com/Lessons-21st-Century-Yuval-Harari/dp/0525512195)  
 
 
-- [**SK** - Sila mentorov (Timothy Ferriss)](https://www.martinus.sk/?uItem=300002) 
+- [**SK** - Sila mentorov (Timothy Ferriss)](https://www.martinus.sk/?uItem=300002)  
 [**EN** - TRIBE OF MENTORS (Timothy Ferriss)](https://www.amazon.com/Tribe-Mentors-TIM-FERRISS/dp/1785041851/)  
 
 
-- [**SK** - Ako chytiť ruského špióna (Naveed Jamali, Ellis Henican)](https://www.martinus.sk/?uItem=206006) 
+- [**SK** - Ako chytiť ruského špióna (Naveed Jamali, Ellis Henican)](https://www.martinus.sk/?uItem=206006)  
 [**EN** - How to Catch a Russian Spy (Naveed Jamali, Ellis Henican)](https://www.amazon.com/Catch-Russian-Naveed-Jamali-2015-08-13/dp/B01N3YPC5M/)  
 
 
-- [**SK** - Štvorhodinový pracovný týždeň - Nepremrhajte celé dni v práci, žite kdekoľvek na svete a staňte sa Novodobým boháčom (Timothy Ferriss)](https://www.martinus.sk/?uItem=275263)  
+- [**SK** - Štvorhodinový pracovný týždeň - Nepremrhajte celé dni v práci, žite kdekoľvek na svete a staňte sa Novodobým boháčom (Timothy Ferriss)](https://www.martinus.sk/?uItem=275263)   
 [**EN** - The 4-Hour Work Week - Escape the 9-5, Live Anywhere and Join the New Rich (Timothy Ferriss)](https://www.amazon.com/4-Hour-Work-Week-Escape-Anywhere/dp/0091929113/)  
 
 
