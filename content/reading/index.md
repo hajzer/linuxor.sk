@@ -6,6 +6,11 @@
 
 ## 2019 
 
+
+- [**SK** - Losing my Virginity - Môj vlastný životopis (Richard Branson)](https://www.martinus.sk/?uItem=215822)  
+[**EN** - Losing My Virginity - How I Survived, Had Fun, and Made a Fortune Doing Business My Way (Richard Branson)](https://www.amazon.com/Losing-My-Virginity-Survived-Business/dp/0307720748)  
+
+
 - [**CZ** - 21 lekcí pro 21. století (Yuval Noah Harari)](https://www.martinus.sk/?uItem=538189)  
 [**EN** - 21 Lessons for the 21st Century (Yuval Noah Harari)](https://www.amazon.com/Lessons-21st-Century-Yuval-Harari/dp/0525512195)  
 
