@@ -4,6 +4,45 @@
 **EN** - This site summarizes non technical books which I read in the last period.
 
 
+## 2020
+
+
+- [**SK** - Čierny kocúr (Edgar Allan Poe)](https://www.martinus.sk/?uItem=159304)  
+[**EN** - The Black Cat (Edgar Allan Poe)](https://www.amazon.com/Black-Cat-Edgar-Allan-Poe/dp/1532874235)  
+[**EN** - The Devil in the Belfry (Edgar Allan Poe)](https://www.amazon.com/Devil-Belfry-Edgar-Allan-Illustrated/dp/1520602626)  
+[**EN** - MS. Found in a Bottle (Edgar Allan Poe)](https://www.amazon.com/MS-Found-Bottle-Edgar-Allan/dp/1729154581)  
+[**EN** - The Fall of the House of Usher (Edgar Allan Poe)](https://www.amazon.com/Fall-House-Usher-Edgar-Allan/dp/1517348064)  
+[**EN** - The Facts in the Case of M. Valdemar (Edgar Allan Poe)](https://www.amazon.com/Facts-Case-M-Valdemar/dp/1545492255)  
+[**EN** - The Cask of Amontillado (Edgar Allan Poe)](https://www.amazon.com/Cask-Amontillado-Edgar-Allan-Poe/dp/1496175085)  
+[**EN** - William Wilson (Edgar Allan Poe)](https://www.amazon.com/William-Wilson-Edgar-Allan-Poe/dp/1530098394)  
+[**EN** - The Premature Burial (Edgar Allan Poe)](https://www.amazon.com/Premature-Burial-Edgar-Allan-Poe/dp/1494307766)  
+[**EN** - The Oval Portrait (Edgar Allan Poe)](https://www.amazon.com/Oval-Portrait-Edgar-Allan-Poe/dp/1546662707)  
+[**EN** - The Tell-Tale Heart (Edgar Allan Poe)](https://www.amazon.co.uk/Tell-Tale-Heart-Edgar-Allan-Poe/dp/1494312700)  
+[**EN** - Metzengerstein (Edgar Allan Poe)](https://www.amazon.com/Metzengerstein-Edgar-Allan-Poe/dp/1729153194)  
+
+
+- [**SK** - Ako sa učíme - Prekvapivá pravda o tom, kedy, kde a ako sa v skutočnosti učíme (Benedict Carey)](https://www.martinus.sk/?uItem=207094)  
+[**EN** - How We Learn - The Surprising Truth About When, Where, and Why It Happens (Benedict Carey)](https://www.amazon.com/How-We-Learn-Surprising-Happens/dp/0812984293)
+
+
+- [**SK** - Zlatý skarabeus (Edgar Allan Poe)](https://www.martinus.sk/?uItem=191781)  
+[**EN** - The Pit and Pendulum (Edgar Allan Poe)](https://www.amazon.com/Pit-Pendulum-Edgar-Allan-Poe/dp/1517653894)  
+[**EN** - The Gold-Bug (Edgar Allan Poe)](https://www.amazon.com/Gold-Bug-Edgar-Allan-Poe/dp/1522996648)  
+[**EN** - Berenice (Edgar Allan Poe)](https://www.amazon.com/Berenice-Edgar-Allan-Poe/dp/1515182169/)  
+[**EN** - The Masque of the Red Death (Edgar Allan Poe)](https://www.amazon.com/Masque-Red-Death-Tale-Blazers/dp/089598735X)  
+[**EN** - The Assignation (Edgar Allan Poe)](https://www.amazon.com/Assignation-Edgar-Allen-Poe/dp/1500489255)  
+[**EN** - Ligeia (Edgar Allan Poe)](https://www.amazon.com/Ligeia-Edgar-Allan-Poe-Illustrated/dp/1521104166)  
+[**EN** - The Oblong Box (Edgar Allan Poe)](https://www.amazon.com/Oblong-Box-Edgar-Allan-Poe/dp/1729401147)  
+[**EN** - King Pest (Edgar Allan Poe)](https://www.amazon.com/King-Pest-Edgar-Allan-Poe/dp/1099519861)  
+[**EN** - The Man of the Crowd (Edgar Allan Poe)](https://www.amazon.com/Man-Crowd-Edgar-Allen-Poe/dp/1500495492)  
+[**EN** - Morella (Edgar Allan Poe)](https://www.amazon.com/Morella-Edgar-Allan-Poe/dp/1729153321)  
+[**EN** - Shadow (Edgar Allan Poe)](https://www.amazon.com/Shadow-Annotated-Edgar-Allan-Poe/dp/165264122X/) 
+
+
+- [**SK** - Marie Curie (Laurent Lemire)](https://www.martinus.sk/?uItem=17933)  
+[**FR** - Marie Curie (Laurent Lemire)](https://www.amazon.co.uk/Marie-Curie-Tempus-Lemire-Laurent/dp/2262023727)
+
+
 ## 2019 
 
 
