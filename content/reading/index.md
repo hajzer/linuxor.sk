@@ -6,6 +6,40 @@
 
 ## 2020
 
+- [**SK** - Elon Musk - Tesla, SpaceX a hľadanie fantastickej budúcnosti (Ashlee Vance)](https://www.martinus.sk/?uItem=210224)  
+[**EN** - Elon Musk - Tesla, SpaceX, and the Quest for a Fantastic Future (Ashlee Vance)](https://www.amazon.com/Elon-Musk-SpaceX-Fantastic-Future/dp/006230125X)
+
+
+- [**SK** - Pozitívny líder - Ako energia a šťastie poháňajú špičkové tímy na ceste k úspechu (Jan Mühlfeit, Melina Costi)](https://www.martinus.sk/?uItem=620003)  
+[**EN** - The Positive Leader - How Energy and Happiness Fuel Top-Performing Teams (Jan Mühlfeit, Melina Costi)](https://www.amazon.com/Positive-Leader-Energy-Happiness-Top-Performing/dp/1292166150/)
+
+
+- [**CZ** - Jony Ive - Génius stojící za nejlepšími produkty Apple (Leander Kahney)](https://www.martinus.sk/?uItem=175155)  
+[**EN** - Jony Ive - The Genius Behind Apple's Greatest Products (Leander Kahney)](https://www.amazon.com/Jony-Ive-Genius-Greatest-Products/dp/1591847060/)
+
+
+- [**CZ** - Krev, pot a pixely - Příběhy vítězství a šílenství ze zákulisí vývoje videoher (Jason Schreier)](https://www.martinus.sk/?uItem=611987)  
+[**EN** - Blood, Sweat, and Pixels - The Triumphant, Turbulent Stories Behind How Video Games Are Made (Jason Schreier)](https://www.amazon.com/Blood-Sweat-Pixels-Triumphant-Turbulent/dp/0062651234/)
+
+
+- [**CZ** - Lídři jedí poslední - Proč některé týmy drží pohromadě a jiné se rozpadají (Simon Sinek)](https://www.martinus.sk/?uItem=197467)  
+[**EN** - Leaders Eat Last - Why Some Teams Pull Together and Others Don't  (Simon Sinek)](https://www.amazon.com/Leaders-Eat-Last-Together-Others/dp/1591848016/)
+
+
+- [**SK** - Digitálna demencia - Ako pripravujeme seba a naše deti o rozum (Manfred Spitzer)](https://www.martinus.sk/?uItem=308797)  
+[**DE** - Digitale Demenz - Wie wir uns und unsere Kinder um den Verstand bringen  (Manfred Spitzer)](https://www.amazon.com/Digitale-Demenz/dp/3426300567/)
+
+
+- [**CZ** - Pravidla mozku - Nejnovější vědecké poznatky pro úspěch v práci, doma i ve škole (John Medina)](https://www.martinus.sk/?uItem=124853)  
+[**EN** - Brain Rules (Updated and Expanded): 12 Principles for Surviving and Thriving at Work, Home, and School  (John Medina)](https://www.amazon.com/Brain-Rules-Updated-Expanded-Principles/dp/098326337X/)
+
+
+- [**CZ** - Špion za miliardu dolarů - Pravdivý příběh sovětského agenta CIA z období studené války (David E. Hoffman)](https://www.martinus.sk/?uItem=269060)  
+[**EN** - The Billion Dollar Spy - A True Story of Cold War Espionage and Betrayal (David E. Hoffman)](https://www.amazon.com/Billion-Dollar-Spy-Espionage-Betrayal/dp/0345805976/)
+
+
+- [**CZ** - Zostup do Maelströmu (Edgar Allan Poe)](https://www.martinus.sk/?uItem=218660)  
+
 
 - [**SK** - Čierny kocúr (Edgar Allan Poe)](https://www.martinus.sk/?uItem=159304)  
 [**EN** - The Black Cat (Edgar Allan Poe)](https://www.amazon.com/Black-Cat-Edgar-Allan-Poe/dp/1532874235)  
