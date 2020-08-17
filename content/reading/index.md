@@ -38,7 +38,7 @@
 [**EN** - The Billion Dollar Spy - A True Story of Cold War Espionage and Betrayal (David E. Hoffman)](https://www.amazon.com/Billion-Dollar-Spy-Espionage-Betrayal/dp/0345805976/)
 
 
-- [**CZ** - Zostup do Maelströmu (Edgar Allan Poe)](https://www.martinus.sk/?uItem=218660)  
+- [**SK** - Zostup do Maelströmu (Edgar Allan Poe)](https://www.martinus.sk/?uItem=218660)  
 
 
 - [**SK** - Čierny kocúr (Edgar Allan Poe)](https://www.martinus.sk/?uItem=159304)  
