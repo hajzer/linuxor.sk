@@ -6,6 +6,25 @@
 
 ## 2020
 
+- [**SK** - Finding My Virginity - Môj druhý životopis (Richard Branson)](https://www.martinus.sk/?uItem=313768)  
+[**EN** - Finding My Virginity - The New Autobiography (Richard Branson)](https://www.amazon.com/Finding-My-Virginity-New-Autobiography/dp/0735219427)
+
+
+- [**SK** - Emocionálna inteligencia - Prečo môže byť dôležitejšia ako IQ (Daniel Goleman)](https://www.martinus.sk/?uItem=296360)  
+[**EN** - Emotional Intelligence - Why It Can Matter More Than IQ (Daniel Goleman)](https://www.amazon.com/Emotional-Intelligence-Matter-More-Than/dp/055338371X)
+
+
+- [**SK** - Obklopený psychopatmi - Zavádzajú, klamú, podvádzajú, manipulujú, kradnú, parazitujú (Thomas Erikson)](https://www.martinus.sk/?uItem=692843)  
+[**EN** - Surrounded by Psychopaths - How to Protect Yourself from Being Manipulated and Exploited in Business (and in Life) (Thomas Erikson)](https://www.amazon.com/Surrounded-Psychopaths-Yourself-Manipulated-Exploited/dp/1250763886)
+
+
+- [**SK** - Pokrok bez povolenia - Ako zdieľaná ekonomika, crowdfunding a kryptomeny zmenili svet (Róbert Chovanculiak)](https://www.martinus.sk/?uItem=682065)  
+
+
+- [**SK** - Trvalý záznam (Edward Snowden)](https://www.martinus.sk/?uItem=703349)  
+[**EN** - Permanent Record (Edward Snowden)](https://www.amazon.com/Permanent-Record-Edward-Snowden/dp/1250237238)
+
+
 - [**SK** - Elon Musk - Tesla, SpaceX a hľadanie fantastickej budúcnosti (Ashlee Vance)](https://www.martinus.sk/?uItem=210224)  
 [**EN** - Elon Musk - Tesla, SpaceX, and the Quest for a Fantastic Future (Ashlee Vance)](https://www.amazon.com/Elon-Musk-SpaceX-Fantastic-Future/dp/006230125X)
 
