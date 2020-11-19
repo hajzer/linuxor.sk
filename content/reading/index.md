@@ -6,6 +6,10 @@
 
 ## 2020
 
+- [**SK** - Raňajky s Einsteinom - Fyzika každodenného života (Chad Orzel)](https://www.martinus.sk/?uItem=454475)  
+[**EN** - Breakfast with Einstein - The Exotic Physics of Everyday Objects (Chad Orzel)](https://www.amazon.com/Breakfast-Einstein-Physics-Everyday-Objects/dp/1946885355)
+
+
 - [**SK** - Finding My Virginity - Môj druhý životopis (Richard Branson)](https://www.martinus.sk/?uItem=313768)  
 [**EN** - Finding My Virginity - The New Autobiography (Richard Branson)](https://www.amazon.com/Finding-My-Virginity-New-Autobiography/dp/0735219427)
 
